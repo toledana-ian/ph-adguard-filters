@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-04
+! Last updated: 2026-04-04 (crawl pass 2)
 ! License: MIT
 
 ! ============================================================
@@ -23,6 +23,7 @@
 
 ! --- PinayFlix network (largest "Pinay scandal" network, many TLD variants) ---
 ||pinayflixplus.com^
+||pinayflix.fyi^
 ||pinayflixplus.tv^
 ||pinayflix.vip^
 ||pinayflix.cx^
@@ -41,10 +42,12 @@
 ||pinayflix.one^
 ||pinayflix.online^
 ||pinay-flix.tv^
+||pinayflixtvs.com^
 
 ! --- Kaldagan / KanTotin / Kantot network (scandal aggregators) ---
 ||kaldagan.com^
 ||kantotin.com^
+||kaltokan.com^
 ||kantotflix.tv^
 ||kantotflix.net^
 ||kantotero.net^
@@ -53,6 +56,13 @@
 ||kantotvids.org^
 ||katorsex.com^
 ||katorsex.me^
+
+! --- Pinay misc network (from kainpepe/kantotvids sidebar) ---
+||bangpinay.com^
+||boybuso.com^
+||jorpetz.com^
+||hotmaals.com^
+||lambingflix.com^
 
 ! --- PinayOK / Pinay OK variants ---
 ||pinayok.com^
@@ -88,6 +98,10 @@
 ||pinayviralsexx.com^
 ||pinaysexscandal.net^
 ||pinay-scandal.com^
+||pinaysexscandal.co^
+||asianviral.com^
+||pinayvids.com^
+||pinaysmut.com^
 ||pahindot.com^
 ||xtorjack.com^
 ||18kit.com^
