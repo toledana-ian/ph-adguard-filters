@@ -21,7 +21,7 @@
 ! PINAY/FILIPINA-SPECIFIC PORN SITES
 ! ============================================================
 
-! --- PinayFlix variants (largest "Pinay scandal" network) ---
+! --- PinayFlix network (largest "Pinay scandal" network, many TLD variants) ---
 ||pinayflixplus.com^
 ||pinayflixplus.tv^
 ||pinayflix.vip^
@@ -35,17 +35,24 @@
 ||pinayflixtv.tv^
 ||pinayflixtv.net^
 ||pinayflix2.tv^
+||pinayflix3.tv^
 ||pinayflix0.com^
 ||pinayflix.blog^
 ||pinayflix.one^
 ||pinayflix.online^
+||pinay-flix.tv^
 
-! --- Kaldagan / KanTotin network (sex scandal aggregators) ---
+! --- Kaldagan / KanTotin / Kantot network (scandal aggregators) ---
 ||kaldagan.com^
 ||kantotin.com^
 ||kantotflix.tv^
-||kantot.flix^
+||kantotflix.net^
+||kantotero.net^
+||kantotinyo.com^
+||kantotplus.com^
+||kantotvids.org^
 ||katorsex.com^
+||katorsex.me^
 
 ! --- PinayOK / Pinay OK variants ---
 ||pinayok.com^
@@ -53,23 +60,60 @@
 ||pinayum.cc^
 ||pinayot.com^
 
-! --- LootedPinay (aggregator) ---
+! --- LootedPinay / Kaldagan ecosystem ---
 ||lootedpinay.com^
 
-! --- Other Pinay-specific sites ---
+! --- Kayatan / Katorsex ecosystem ---
 ||kayatan.org^
 ||kayatan.me^
-||asianpinay.com^
-||rapbeh.net^
-||euttube.com^
 
-! --- Porn/adult clip aggregators mentioning PH ---
+! --- Rapbeh / Sarap network ---
+||rapbeh.net^
+||sarapbeh.com^
+||sarapbabe.com^
+
+! --- IyotTube / EutTube network ---
+||euttube.com^
+||iyottube.org^
+
+! --- PinayViral / Scandal sites ---
+||asianpinay.com^
+||asianpinay.to^
+||pinaypornsite.com^
+||pinayreel.tv^
+||pinayreel.org^
+||pinayvlog.com^
+||pinaypie.me^
+||pinaytea.com^
+||pinayviralsexx.com^
+||pinaysexscandal.net^
+||pinay-scandal.com^
+||pahindot.com^
+||xtorjack.com^
+||18kit.com^
+||kainpepe.net^
+||kainpopoy.com^
+||liboggirls.net^
+
+! --- Pwetan / Pwetflix / Pwerta network ---
 ||wowpinay.com^
 ||pwetflix.com^
 ||pwerta.com^
+||pwetan.com^
+||pwetan.one^
+||pwetan.me^
 
-! --- Other Filipino/Pinay mentions ---
+! --- JabolTV network ---
+||jaboltv.net^
+||jaboltv.io^
+
+! --- VivamaxFlix (Vivamax piracy/leak site) ---
+||vivamaxflix.com^
+
+! --- Other Filipino/Pinay tubes and aggregators ---
 ||fakboi.tv^
+||fakboi.org^
 ||ninjakol.cc^
 ||kifpy.com^
 ||rbreezy.xyz^
+||jakolman.com^
