@@ -1,0 +1,16 @@
+! Title: PH DNS-over-HTTPS Block
+! Description: AdGuard filter rules blocking DNS-over-HTTPS providers to prevent DNS bypass.
+! Homepage: https://github.com/toledana-ian/ph-adguard-filters
+! Last updated: 2026-04-04
+! License: MIT
+
+! ============================================================
+! BLOCK DNS-OVER-HTTPS PROVIDERS
+! ============================================================
+||dns.google^
+||dns.google.com^
+||cloudflare-dns.com^
+||one.one.one.one^
+||mozilla.cloudflare-dns.com^
+||dns.quad9.net^
+||dns.nextdns.io^

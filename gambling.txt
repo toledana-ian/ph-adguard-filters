@@ -1,0 +1,495 @@
+! Title: PH Gambling Blocklist
+! Description: AdGuard filter rules blocking Philippine gambling sites — includes PAGCOR-accredited operators and other known gambling domains.
+! Homepage: https://github.com/toledana-ian/ph-adguard-filters
+! Last updated: 2026-04-04
+! License: MIT
+
+! ============================================================
+! MANUALLY ADDED GAMBLING SITES
+! ============================================================
+! --- BingoPlus / ArenaPlus ---
+||bingoplus.com^
+||bingoplus.net^
+||bingoplus.com.ph^
+||bingoplus.ph^
+||bingoplus.online^
+||arenaplus.net^
+||arenaplus.ph^
+||arenaplus.com^
+
+! --- CasinoPlus ---
+||casinoplus.com.ph^
+
+! --- GZone ---
+||gzone.ph^
+
+! --- Bet88 ---
+||bet88.ph^
+||bet88.io^
+||bet88.stream^
+
+! --- CasinoScores ---
+||casinoscores.com^
+
+! --- FilBet ---
+||filbet.com^
+||filbet.com.ph^
+
+! --- King.ph ---
+||king.ph^
+||king.com.ph^
+||king.net.ph^
+
+! --- OKBet / OKGames ---
+||okbet.com^
+||okgames.com^
+||okgames.net^
+||ok-games.ph^
+||okapp.chat^
+||okbet.game^
+||okbet.help^
+||okbet.link^
+||okbet.net^
+||okbet.one^
+||okfun.ph^
+||okplay.ph^
+||okgames.ph^
+||okdunk.ph^
+||okdunk.net^
+||okcards.ph^
+||okcards.com^
+||okpisoluck.ph^
+||okpisoluck.com^
+
+! --- HawkGaming ---
+||hawkgaming.com^
+
+! --- S5 ---
+||s5.com^
+||s5casino.ph^
+||bets5.ph^
+||s5live.ph^
+||s5club.ph^
+||s5games.ph^
+||s5-games.ph^
+||s5vip.ph^
+
+! --- Other ---
+||online-gambling.com^
+||9pagcor.ph^
+||9goodgamblingsites.com^
+
+! ============================================================
+! PAGCOR-ACCREDITED OPERATORS (as of March 30, 2026)
+! ============================================================
+
+! --- AB LEISURE EXPONENT (ABLE) - BingoPlus ---
+||peryaplus.net^
+||spinplusph.com^
+||slotplus.ph^
+||bingopluspoker.ph^
+||bingoplusios1.com^
+||bingoplusios2.com^
+||bingoplusandroid1.com^
+||bingoplusandroid2.com^
+||fishplus.ph^
+||minesplus.ph^
+||arenapluspro.com^
+||arenapluspro.net^
+||tournamentplus.com^
+||texasplus.ph^
+
+! --- BB WAVE INC. - 789 ---
+||789bingo.com^
+||789.com^
+
+! --- BLOOMBERRY RESORTS (Solaire) - MegaFUNalo ---
+||megafunalo.com^
+||63fun.com^
+||mr69fun.com^
+||funalomax.com^
+||pesomaxfun.com^
+
+! --- BLUE PHOENIX - BossBunny / LuckyBunny ---
+||bigbunny.ph^
+||bossbunny.ph^
+||luckybunny.ph^
+
+! --- BONNE CHANCE - Luckpot ---
+||luckpot.ph^
+
+! --- BREDDAS - CrazyWinGo ---
+||crazywin.ph^
+||happybingo.ph^
+||happybingo.fun^
+||happybingo.games^
+
+! --- CD EXTREME - 747 ---
+||747.live^
+||747ph.live^
+||747live.com^
+
+! --- CYBER DOT - Lucky ---
+||viplucky.com^
+||luckytok.com^
+||luckygame.ph^
+||luckyi.com^
+||luckystarph.com^
+||luckyclub.ph^
+||luckyv.com^
+
+! --- DESIGNWAVE - DigitalWin ---
+||digiwin.ph^
+||luckywin.ph^
+||betwin.ph^
+||combowin.ph^
+||prizewin.ph^
+||grandwin.ph^
+
+! --- DW TECHNOLOGIES - SportsPlus ---
+||sportsplus.ph^
+||sportsplus.com.ph^
+
+! --- ENIGMA - PatokBet ---
+||patokbet.com^
+||patokgames.com^
+
+! --- ESAT PILIPINAS - MGame ---
+||mgame.ph^
+||mgamecasino.ph^
+
+! --- GEMINI GAMING (GGMC) - NinoGaming ---
+||ninogaming.com^
+
+! --- GLOBAL PLAY HUB - ByBet ---
+||bybet.com^
+||bybet.co^
+||bybet.tv^
+||bybet.app^
+||bybet.ph^
+||bybet.vip^
+||bybet.io^
+||by-bet.com^
+||bygame.com^
+
+! --- GLOBALX - Karera Live ---
+||karera.live^
+
+! --- GOLDEN ALPHA - Jackpot Combo ---
+||jackpotcombo.com^
+
+! --- GOOD GAMES SOLUTIONS - GGPoker ---
+||ggpoker.ph^
+
+! --- GOTECH ENTERTAINMENT - FilBet ---
+||filgame.com^
+||filgame.com.ph^
+||filgame.ph^
+||filplay.com^
+||filplay.com.ph^
+||filplay.ph^
+||filslots.com^
+||filslots.com.ph^
+||filslots.ph^
+
+! --- GREYGOOSE - R-Live ---
+||rlivegame.net^
+
+! --- H&H GAMING - HANN Online ---
+||hannonline.ph^
+
+! --- HEILAN - Piso Game ---
+||pisogame.com^
+||pisogame.bet^
+||pisogame.top^
+||pisogame.vip^
+
+! --- HHR PHILIPPINES - Buenas ---
+||buenas.ph^
+||buenas.cc^
+||buenas.life^
+||buenas.pro^
+||buenas.asia^
+||buenas.plus^
+||buenas.vip^
+||buenas.site^
+||buenas.bet^
+
+! --- IGO DIGITAL - IGO ---
+||igo.ph^
+||igoegaming.ph^
+
+! --- INFINITECH - InPlay ---
+||inplay.ph^
+
+! --- IEST - Jade SportsBet ---
+||jadesportsbet.com^
+
+! --- JKS TECH - Epic Game ---
+||epicgame.ph^
+
+! --- KGI - Fastwin ---
+||fastwin.ph^
+||fastplay.ph^
+
+! --- LARGE-HUB - Pin77 ---
+||pin77.com^
+||pin77.ph^
+||pin77.net^
+||pin77.asia^
+||playpal77.ph^
+||playpal77.fun^
+||chamba77.com^
+
+! --- LAS CASAS - GameX ---
+||gamexsports.com.ph^
+
+! --- LEGEND LINK ---
+||legendlink.com^
+||novalink.com.ph^
+||fortunelink.com.ph^
+
+! --- LUCKY TAYA ---
+||luckytayasports.com^
+||luckytayabilyarbet.com^
+
+! --- MEGABET ---
+||megabet-paradise.com^
+||megabet-paradise.vip^
+
+! --- MEMO MULTINATIONAL - FBM Play ---
+||fbmplay.com^
+||fbmplay.ph^
+||fbmcasino.ph^
+||fbm.casino^
+||fbmgame.online^
+||fbmslots.com^
+
+! --- META INTERACTIVE - 123Go ---
+||123go.com^
+||123go.ph^
+||123go.games^
+||123bingo.ph^
+||123sports.ph^
+||123perya.ph^
+||123poker.ph^
+||123swerte.ph^
+
+! --- NEMO-IG - FairPlay ---
+||fairplay.ph^
+||peryaplay.ph^
+||luckyplay.ph^
+||xoplay.ph^
+||arionplay.com^
+
+! --- NEW COAST - Lavie Resort ---
+||laviergp.com^
+
+! --- NEXTSTAGE / ANIBET - GameCity / SpinCity ---
+||gamecity.ph^
+||spincity.ph^
+||jackpotcity.ph^
+||peryacity.ph^
+
+! --- ORIENT CAPITAL - MegaSportsWorld ---
+||msw.ph^
+
+! --- PHILWEB - eGames ---
+||egamescasino.ph^
+||esportsbetegamescasino.ph^
+||numerouno.ph^
+||numerouno.com.ph^
+
+! --- PT GAMING ---
+||ptgaming.ph^
+||ptgaming.com.ph^
+
+! --- PLAYMATE - NuSTAR ---
+||nustargame.ph^
+||nustargame.com^
+||nustargame.com.ph^
+||nustaronline.vip^
+
+! --- PODEC - SuloBet ---
+||sulobet.ph^
+
+! --- PURE LUCK - LakiWin ---
+||lakiplay.com^
+||laki7.com^
+||lakiwin.com^
+||lakijackpot.com^
+||lakigames.com^
+||laki.casino^
+||lakilucky.com^
+
+! --- RAC PHIL - DeskGame ---
+||deskgame.ph^
+||deskgame.com^
+||deskgame.club^
+||deskgame.vip^
+||deskgame.app^
+||deskgame.pro^
+||deskwin.com^
+||deskwin.ph^
+||deskwin.club^
+||deskwin.vip^
+||deskwin.app^
+||deskwin.pro^
+||desklucky.com^
+||desklucky.ph^
+||desklucky.com.ph^
+||desklucky.club^
+||desklucky.vip^
+||desklucky.app^
+||desklucky.pro^
+||deskace.com^
+||deskace.vip^
+||deskace.app^
+||deskace.pro^
+||desktaya.ph^
+||desktaya.club^
+||desktaya.vip^
+||desktaya.app^
+||desktaya.pro^
+
+! --- RED FU - Winzir ---
+||winzir.com^
+||winzir.net^
+||winzir.com.ph^
+||winzir.ph^
+||wing.ph^
+||wins.ph^
+||wzr.ph^
+||winz.ph^
+
+! --- SANDBOX - SG8 ---
+||sg8.casino^
+||sg8.zone^
+||sg8.bet^
+||playsg8.com^
+||pinoygamessg8.club^
+
+! --- SILVER GOOSE 8 (SGII) - BLucky / BStar ---
+||blucky.ph^
+||blucky.com.ph^
+||bstar.ph^
+||bgames.ph^
+||bbet.ph^
+||blive.ph^
+||bcasino.ph^
+||bplus.ph^
+||bplay.ph^
+
+! --- SKYBET - Juan365 ---
+||juan365.com^
+||juan365.ph^
+||juan365.app^
+||juan365.com.ph^
+||juan365.win^
+||juan365.online^
+||juanace.com^
+||juanace.app^
+||juanace.ph^
+||juanace.com.ph^
+||juanpanalo.ph^
+||juanpanalo.com^
+||juanpanalo.app^
+||juanbingo.ph^
+||juanbingo.com^
+||juanbingo.app^
+||juanbingo.com.ph^
+||juanmate.ph^
+||juanmate.com^
+||juanmate.app^
+||juankada.ph^
+||juankada.com^
+||juankada.app^
+||juanzone.ph^
+||juanzone.com^
+||juanzone.app^
+||juanzone.com.ph^
+
+! --- TIGER RESORT (Okada Manila) ---
+||okadaonlinecasino.com^
+
+! --- TOPBET - Gbet / Gtaya ---
+||gbet.com^
+||6bet.com^
+||gtaya.com^
+||ggpanalo.com^
+||gperya.com^
+||gtongits.com^
+||g777.ph^
+
+! --- TOTAL GAMEZONE (TGXI) - GameZone ---
+||gamezone.ph^
+||championzone.ph^
+||gamezone.com.ph^
+||gamezone88.com^
+
+! --- TRAVELLERS INTERNATIONAL (Newport) - Bingo World ---
+||bingoworld.online^
+||luckyworld.ph^
+||fortuneworld.ph^
+||sportsworld.ph^
+
+! --- TRIPLE DIAMOND - Bet88 ---
+||lucky88.ph^
+||play88.ph^
+
+! --- TROJANS WELL - WOWGames ---
+||wowgames.com^
+||wowgames.ph^
+||wowgames.chat^
+||wowgames.game^
+||wowgames.help^
+||wowgames.link^
+||wowgames.one^
+||wowgames.live^
+||wowgames.app^
+||wowgames.net^
+||wowgames.vip^
+||wowspin.ph^
+||wowsports.ph^
+||wowperya.ph^
+||wownumero.ph^
+
+! --- WEBZOID - Wilyonaryo ---
+||wilyonaryo.com^
+
+! --- WORLD PLATINUM (WPTI) - King.ph ---
+||spinking.ph^
+||pokerking.ph^
+||kingofficial.ph^
+||king2025.com^
+||king2026.com^
+||king2027.com^
+||king2028.com^
+||luckyking.com.ph^
+||kingcasino.ph^
+||kingcasino.com.ph^
+||queenking.ph^
+||king.lucky.ph^
+||winking.ph^
+||aceking.ph^
+||maxking.ph^
+||kingvip.ph^
+||vipking.ph^
+||saklaking.ph^
+||beeking.ph^
+||bee.ph^
+||queen.ph^
+||lucky.ph^
+||peryaking.com^
+
+! --- XN SOLUTIONS - MegaPremyo ---
+||megapremyo.com^
+||megapremyo.ph^
+||megaperya.com^
+||megapick.ph^
+||megawagi.com^
+||megawagi.ph^
+||megawagi.vip^
+||megawagi.info^
+||megawagi.co^
+||megawagi.net^

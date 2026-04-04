@@ -1,0 +1,25 @@
+! Title: PH Porn Blocklist
+! Description: AdGuard filter rules blocking Philippine adult/porn sites.
+! Homepage: https://github.com/toledana-ian/ph-adguard-filters
+! Last updated: 2026-04-04
+! License: MIT
+
+! ============================================================
+! PORN / ADULT SITES
+! ============================================================
+||pinayflixplus.com^
+||pinayflixplus.tv^
+||pinayflix.vip^
+||pinayflix.cx^
+||pinayflix.gg^
+||pinayflix.vg^
+||wowpinay.com^
+||pinayok.com^
+||pinayone.net^
+||pinayum.cc^
+||pwetflix.com^
+||pwerta.com^
+||fakboi.tv^
+||ninjakol.cc^
+||kifpy.com^
+||rbreezy.xyz^
