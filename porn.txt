@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-04 (crawl pass 2)
+! Last updated: 2026-04-04 (crawl pass 3)
 ! License: MIT
 
 ! ============================================================
@@ -43,6 +43,9 @@
 ||pinayflix.online^
 ||pinay-flix.tv^
 ||pinayflixtvs.com^
+||pinayflix.sh^
+||pinayflix.day^
+||pinayflix1.com^
 
 ! --- Kaldagan / KanTotin / Kantot network (scandal aggregators) ---
 ||kaldagan.com^
@@ -79,6 +82,8 @@
 
 ! --- Rapbeh / Sarap network ---
 ||rapbeh.net^
+||rapbeh.xyz^
+||rapbeh.cx^
 ||sarapbeh.com^
 ||sarapbabe.com^
 
@@ -123,6 +128,19 @@
 
 ! --- VivamaxFlix (Vivamax piracy/leak site) ---
 ||vivamaxflix.com^
+
+! --- Sulasok network ---
+||sulasok.tv^
+||sulasok.uno^
+||sulasok.xyz^
+||sulasok.com.ph^
+||sulasoktv.com^
+
+! --- Manyakol / PinayHub ---
+||manyakol.net^
+||pinayhub.me^
+||pinayhub.bz^
+||pinaybold.com^
 
 ! --- Other Filipino/Pinay tubes and aggregators ---
 ||fakboi.tv^
