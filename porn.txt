@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-04 (crawl pass 6)
+! Last updated: 2026-04-04 (crawl pass 7)
 ! License: MIT
 
 ! ============================================================
@@ -178,6 +178,10 @@
 ||philippineporn.net^
 ||kutitot.com^
 ||pinoysexstories.xyz^
+
+! --- Sndkto / Sindikato network ---
+||sndkto.org^
+||sndkto.tv^
 
 ! --- Other Filipino/Pinay tubes and aggregators ---
 ||kantotvids.net^
