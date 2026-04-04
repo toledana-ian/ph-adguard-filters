@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-04 (crawl pass 5)
+! Last updated: 2026-04-04 (crawl pass 6)
 ! License: MIT
 
 ! ============================================================
@@ -50,9 +50,11 @@
 ! --- Kaldagan / KanTotin / Kantot network (scandal aggregators) ---
 ||kaldagan.com^
 ||kantotin.com^
+||kantotin.net^
 ||kaltokan.com^
 ||kantotflix.tv^
 ||kantotflix.net^
+||kantotflix.com^
 ||kantotero.net^
 ||kantotinyo.com^
 ||kantotplus.com^
@@ -125,6 +127,7 @@
 ! --- JabolTV network ---
 ||jaboltv.net^
 ||jaboltv.io^
+||jabol1.com^
 
 ! --- VivamaxFlix (Vivamax piracy/leak site) ---
 ||vivamaxflix.com^
@@ -146,6 +149,9 @@
 ||pinayhub.me^
 ||pinayhub.bz^
 ||pinayhub.co^
+||pinayhub.tv^
+||pinayhub.biz^
+||pinayhub.com^
 ||pinayhubvideo.xyz^
 ||pinaybold.com^
 ||pinaybold.cc^
@@ -175,9 +181,16 @@
 
 ! --- Other Filipino/Pinay tubes and aggregators ---
 ||kantotvids.net^
+||kantotvids.org^
+||kantotvids.com^
 ||fakboi.tv^
 ||fakboi.org^
 ||ninjakol.cc^
+||ninjakol.com^
 ||kifpy.com^
 ||rbreezy.xyz^
 ||jakolman.com^
+
+! --- PinayDeepWeb network ---
+||pinaydeepweb.com^
+||pinaydeepweb.net^
