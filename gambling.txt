@@ -1,5 +1,5 @@
 ! Title: PH Gambling Blocklist
-! Description: AdGuard filter rules blocking Philippine gambling sites — includes PAGCOR-accredited operators and other known gambling domains.
+! Description: AdGuard filter rules blocking Philippine gambling sites — includes PAGCOR-accredited operators, unlicensed offshore casinos, and e-sabong sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! Last updated: 2026-04-04
 ! License: MIT
@@ -493,3 +493,81 @@
 ||megawagi.info^
 ||megawagi.co^
 ||megawagi.net^
+
+! ============================================================
+! UNLICENSED / OFFSHORE GAMBLING SITES POPULAR IN PHILIPPINES
+! ============================================================
+! These sites are NOT licensed by PAGCOR and operate illegally
+! for Filipino players. Source: traffic data, CICC reports 2025.
+
+! --- International sportsbooks / casinos with heavy PH traffic ---
+||stake.com^
+||bet365.com^
+||1xbet.com^
+||ph1xbet.ph^
+||1xbet-philippine.com^
+||fonbet.com.cy^
+||betcity.net^
+||msport.com^
+||hawk.live^
+||gidapp.com^
+||gamdom.com^
+||vbet.am^
+
+! --- Unlicensed offshore casino brands popular with Filipinos ---
+||fc178.com^
+||jili178.com^
+||jilibet.com^
+||jilibetwin.com^
+||jiliplay888.com^
+||betso88.com^
+||betso888.com^
+||betvisa.com^
+||phlwin.com^
+||luckycola.com^
+||luckycola.ai^
+||luckycola.ph^
+||panaloko.com^
+||nuebe-casino.com^
+||nuebe999.com^
+||nuebe9.com^
+||mwplay888.net^
+||mwplay.com^
+||taya365.com^
+||taya365.ph^
+||peso888.com^
+||peso888.ph^
+||1asiabet.com^
+||pnxbet.com^
+||pgbet178.com^
+||lodi646.com^
+||lodi646.ph^
+||lodi777.com^
+||bmy888.net^
+||bmy999.net^
+||phbet.com^
+
+! ============================================================
+! E-SABONG SITES (online cockfighting — banned Dec 2022)
+! ============================================================
+! E-sabong was banned by executive order in Dec 2022.
+! DICT has taken down 52,000+ e-sabong domains from 2023-2025.
+
+||sabonginternational.com^
+||sabonginternational.me^
+||sabongworldcup.com^
+||onlinesabong.com.ph^
+||pitmasterslive.com^
+||pitmaster.live^
+||manok.ph^
+||s1288.net^
+||sw418.com^
+||sw418.live^
+||sw418.ph^
+||ds88.live^
+||ds88.ph^
+||e-sabong.net^
+||esabong.net^
+||esabong.com^
+||sabongph.com^
+||kingsportslive.com^
