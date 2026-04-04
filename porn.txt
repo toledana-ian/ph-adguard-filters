@@ -5,20 +5,70 @@
 ! License: MIT
 
 ! ============================================================
-! PORN / ADULT SITES
+! MAJOR PORN SITES (internationally known, often blocked in PH)
 ! ============================================================
+! Note: These are blocked by Philippine ISPs (Smart, Sun, PLDT) since January 2017
+||pornhub.com^
+||xvideos.com^
+||xhamster.com^
+||redtube.com^
+||motherless.com^
+||youporn.com^
+||thisvid.com^
+||asstr.org^
+
+! ============================================================
+! PINAY/FILIPINA-SPECIFIC PORN SITES
+! ============================================================
+
+! --- PinayFlix variants (largest "Pinay scandal" network) ---
 ||pinayflixplus.com^
 ||pinayflixplus.tv^
 ||pinayflix.vip^
 ||pinayflix.cx^
 ||pinayflix.gg^
 ||pinayflix.vg^
-||wowpinay.com^
+||pinayflix.com^
+||pinayflix.me^
+||pinayflix.tv^
+||pinayflixtv.com^
+||pinayflixtv.tv^
+||pinayflixtv.net^
+||pinayflix2.tv^
+||pinayflix0.com^
+||pinayflix.blog^
+||pinayflix.one^
+||pinayflix.online^
+
+! --- Kaldagan / KanTotin network (sex scandal aggregators) ---
+||kaldagan.com^
+||kantotin.com^
+||kantotflix.tv^
+||kantot.flix^
+||katorsex.com^
+
+! --- PinayOK / Pinay OK variants ---
 ||pinayok.com^
 ||pinayone.net^
 ||pinayum.cc^
+||pinayot.com^
+
+! --- LootedPinay (aggregator) ---
+||lootedpinay.com^
+
+! --- Other Pinay-specific sites ---
+||kayatan.org^
+||kayatan.me^
+||asianpinay.com^
+||rapbeh.net^
+||euttube.com^
+
+! --- Porn/adult clip aggregators mentioning PH ---
+||wowpinay.com^
 ||pwetflix.com^
 ||pwerta.com^
+
+! --- Other Filipino/Pinay mentions ---
 ||fakboi.tv^
 ||ninjakol.cc^
 ||kifpy.com^
