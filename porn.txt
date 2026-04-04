@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-04 (crawl pass 7)
+! Last updated: 2026-04-05 (crawl pass 8)
 ! License: MIT
 
 ! ============================================================
@@ -45,6 +45,10 @@
 ||pinayflixtvs.com^
 ||pinayflix.sh^
 ||pinayflix.day^
+||pinayflix.site^
+||pinayflix.watch^
+||pinayflix.best^
+||pinayflix.art^
 ||pinayflix1.com^
 
 ! --- Kaldagan / KanTotin / Kantot network (scandal aggregators) ---
@@ -155,6 +159,7 @@
 ||pinayhubvideo.xyz^
 ||pinaybold.com^
 ||pinaybold.cc^
+||pinay-hub.com^
 
 ! --- PinayFlixTV alt TLDs ---
 ||pinayflixtv.co^
@@ -185,7 +190,6 @@
 
 ! --- Other Filipino/Pinay tubes and aggregators ---
 ||kantotvids.net^
-||kantotvids.org^
 ||kantotvids.com^
 ||fakboi.tv^
 ||fakboi.org^
