@@ -1,6 +1,6 @@
 # ph-adguard-filters
 
-AdGuard custom filter list targeting Philippine domains. Blocks PAGCOR-licensed gambling sites, adult content, and DNS-over-HTTPS providers.
+AdGuard custom filter list targeting Philippine domains. Blocks PAGCOR-licensed gambling sites and adult content.
 
 ## Filter Lists
 
