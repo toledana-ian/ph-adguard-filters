@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-06 (crawl pass 13, +StevenBlack gaps)
+! Last updated: 2026-04-06 (crawl pass 14, +GitHub sources)
 ! License: MIT
-! Total rules: 340
+! Total rules: 357
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -25,6 +25,8 @@
 ||pinay-flix.tv^
 ||pinayflix.art^
 ||pinayflix.cc^
+||pinayflix.it.com^
+||pinayflix.my^
 ||pinayflix1.tv^
 ||pinayflix2.com^
 ||pinayflix.net^
@@ -74,8 +76,10 @@
 ! ============================================================
 ||kaldagan.com^
 ||kaltokan.com^
+||katorsex.cc^
 ||katorsex.com^
 ||katorsex.me^
+||kaldagan.co^
 ||kayatan.com^
 ||kayatan.me^
 ||kayatan.org^
@@ -96,6 +100,7 @@
 ||kantotin.net^
 ||kantotin.tv^
 ||kantotintv.com^
+||kantotbabe.com^
 ||kantotinyo.com^
 ||kantotplus.com^
 ||kantotsex.com^
@@ -109,6 +114,7 @@
 ! ============================================================
 ||sulasok.cc^
 ||sulasok.com^
+||sulasokvid.net^
 ||sulasok.com.ph^
 ||sulasok.cz^
 ||sulasok.org^
@@ -184,6 +190,7 @@
 ||pinay-hub.com^
 ||pinaybold.cc^
 ||pinaybold.com^
+||pinayhubvid.com^
 ||pinayhub.biz^
 ||pinayhub.bz^
 ||pinayhub.co^
@@ -197,6 +204,7 @@
 ! ============================================================
 ||pinayum.cc^
 ||pinayum.co^
+||pinayum.cx^
 ||pinayum.org^
 ||pinayumtv.com^
 ||pinayumtv.me^
@@ -207,11 +215,16 @@
 ! ============================================================
 ||pinaypie.co^
 ||pinaypie.com^
+||pinaypie.com.ph^
 ||pinaypie.me^
 ||pinayeut.com^
 ||pinayplay.com^
+||pinayfiles.net^
+||pinaygo.com^
 ||pinaysite.com^
+||pinayporn.it.com^
 ||pinayporno.com^
+||pinaypuke.com^
 
 ! ============================================================
 ! 15. PINAYVIRAL / PINAYLEAK / SCANDAL SITES
@@ -319,6 +332,10 @@
 ! 25. MISC FILIPINO/PINAY TUBES & AGGREGATORS
 ! ============================================================
 ||18kit.com^
+||filipinatube.net^
+||onlypinay.bz^
+||pilipinay.tv^
+||xpinayvids.net^
 ||filipinachick.com^
 ||filipinagogo.com^
 ||filipinastripper.com^
