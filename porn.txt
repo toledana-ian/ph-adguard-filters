@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-06 (crawl pass 12)
+! Last updated: 2026-04-06 (crawl pass 13, +StevenBlack gaps)
 ! License: MIT
-! Total rules: 323
+! Total rules: 340
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -25,6 +25,8 @@
 ||pinay-flix.tv^
 ||pinayflix.art^
 ||pinayflix.cc^
+||pinayflix1.tv^
+||pinayflix2.com^
 ||pinayflix.net^
 ||pinayflix.top^
 ||pinayflix.best^
@@ -74,6 +76,7 @@
 ||kaltokan.com^
 ||katorsex.com^
 ||katorsex.me^
+||kayatan.com^
 ||kayatan.me^
 ||kayatan.org^
 ||kayatsex.com^
@@ -150,6 +153,7 @@
 ! ============================================================
 ||fakboi.org^
 ||fakboi.tv^
+||pinayrare.net^
 ||pinayreel.org^
 ||pinayreel.tv^
 
@@ -212,7 +216,11 @@
 ! ============================================================
 ! 15. PINAYVIRAL / PINAYLEAK / SCANDAL SITES
 ! ============================================================
+||asian-pinay.ru^
+||asianpinay.asia^
+||asianpinay.cc^
 ||asianpinay.com^
+||asianpinay.ru^
 ||iyoteen.cc^
 ||iyoteen.org^
 ||pilipinay.com^
@@ -223,6 +231,7 @@
 ||asianviral.com^
 ||mypinayscandal.net^
 ||pahindot.com^
+||pinay-porn.com^
 ||pinay-scandal.com^
 ||pinay-viral.org^
 ||pinay.sex^
@@ -236,6 +245,7 @@
 ||pinaysmut.com^
 ||pinaytea.com^
 ||pinayviralsexx.com^
+||pinayvideoscandals.com^
 ||pinayvids.com^
 ||pinayvlog.com^
 ||philippineporn.net^
@@ -309,6 +319,13 @@
 ! 25. MISC FILIPINO/PINAY TUBES & AGGREGATORS
 ! ============================================================
 ||18kit.com^
+||filipinachick.com^
+||filipinagogo.com^
+||filipinastripper.com^
+||filipinavirgin.net^
+||filipinawebcams.com^
+||pinayhdporn.com^
+||pinaypie.net^
 ||bangpinay.com^
 ||boybuso.com^
 ||hotmaals.com^
