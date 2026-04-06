@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-06 (crawl pass 14, +GitHub sources)
+! Last updated: 2026-04-06
 ! License: MIT
-! Total rules: 357
+! Total rules: 262
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -135,6 +135,7 @@
 ! ============================================================
 ||rapbeh.cx^
 ||rapbeh.net^
+||rapbeh.vip^
 ||rapbeh.xyz^
 ||sarapbabe.com^
 ||sarapbeh.com^
@@ -233,6 +234,7 @@
 ||asianpinay.asia^
 ||asianpinay.cc^
 ||asianpinay.com^
+||asianpinay.com.ph^
 ||asianpinay.ru^
 ||iyoteen.cc^
 ||iyoteen.org^
@@ -324,12 +326,26 @@
 ||xbreetv.com^
 
 ! ============================================================
-! 24. TRIKEPATROL (PH-FOCUSED, FOREIGN-PRODUCED)
+! 24. XPINAY / PINAYX / PINAYLULU / PINAYWEB / PINAYCUM
+! ============================================================
+||onlypinay.io^
+||pinaycum.com^
+||pinaycumvids.com^
+||pinaylulu.cz^
+||pinayweb.net^
+||pinayx.net^
+||pinayx.ph^
+||xpinay.cc^
+||xpinay.one^
+||xpinay.tv^
+
+! ============================================================
+! 25. TRIKEPATROL (PH-FOCUSED, FOREIGN-PRODUCED)
 ! ============================================================
 ||trikepatrol.com^
 
 ! ============================================================
-! 25. MISC FILIPINO/PINAY TUBES & AGGREGATORS
+! 26. MISC FILIPINO/PINAY TUBES & AGGREGATORS
 ! ============================================================
 ||18kit.com^
 ||filipinatube.net^
