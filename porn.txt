@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-06
+! Last updated: 2026-04-09
 ! License: MIT
-! Total rules: 262
+! Total rules: 266
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -121,6 +121,7 @@
 ||sulasok.pro^
 ||sulasok.to^
 ||sulasok.tv^
+||sulasok.hair^
 ||sulasok.uno^
 ||sulasok.vu^
 ||sulasok.win^
@@ -255,6 +256,8 @@
 ||pinayleak.tv^
 ||pinayleak.vip^
 ||pinaylapag.net^
+||pinayteen.net^
+||pinayscandalz.com^
 ||pinaysexscandal.co^
 ||pinaysexscandal.net^
 ||pinaysmut.com^
@@ -301,6 +304,7 @@
 ||pwetan.com^
 ||pwetan.me^
 ||pwetan.one^
+||pwetan.lol^
 ||pwetflix.com^
 ||wowpinay.com^
 
