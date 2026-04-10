@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! Last updated: 2026-04-10
 ! License: MIT
-! Total rules: 270
+! Total rules: 279
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -78,9 +78,11 @@
 ! ============================================================
 ||kaldagan.com^
 ||kaltokan.com^
+||kaltokan.cc^
 ||katorsex.cc^
 ||katorsex.com^
 ||katorsex.me^
+||katorsex.ph^
 ||kaldagan.co^
 ||kayatan.com^
 ||kayatan.me^
@@ -137,6 +139,8 @@
 ! ============================================================
 ! 6. RAPBEH / SARAP / SARAPPINAY NETWORK
 ! ============================================================
+||rapbeh.co^
+||rapbeh.com^
 ||rapbeh.cx^
 ||rapbeh.net^
 ||rapbeh.vip^
@@ -166,6 +170,7 @@
 ||fakboi.org^
 ||fakboi.tv^
 ||pinayrare.net^
+||pinayreel.fun^
 ||pinayreel.org^
 ||pinayreel.tv^
 
@@ -240,8 +245,10 @@
 ||asianpinay.cc^
 ||asianpinay.com^
 ||asianpinay.com.ph^
+||asianpinay.ph^
 ||asianpinay.ru^
 ||iyoteen.cc^
+||iyoteen.net^
 ||iyoteen.org^
 ||pilipinay.com^
 ||pinayvlog.cc^
@@ -362,6 +369,8 @@
 ||xpinayvids.net^
 ||filipinachick.com^
 ||filipinagogo.com^
+||pornhubpinay.com^
+||tik.cx^
 ||filipinastripper.com^
 ||filipinavirgin.net^
 ||filipinawebcams.com^
@@ -379,3 +388,4 @@
 ||ninjakol.com^
 ||pinoysexstories.xyz^
 ||rbreezy.xyz^
+
