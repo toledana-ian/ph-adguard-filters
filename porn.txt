@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-10
+! Last updated: 2026-04-11
 ! License: MIT
-! Total rules: 279
+! Total rules: 286
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -50,6 +50,7 @@
 ||pinayflix.vip^
 ||pinayflix.watch^
 ||pinayflix.wtf^
+||pinayflix.xin^
 ||pinayflix.xyz^
 ||pinayflix0.com^
 ||pinayflix1.com^
@@ -107,11 +108,13 @@
 ||kantotbabe.com^
 ||kantotinyo.com^
 ||kantotplus.com^
+||kantotph.com^
 ||kantotsex.com^
 ||kanortube.com^
 ||kantotvids.com^
 ||kantotvids.net^
 ||kantotvids.org^
+||kantotin.cam^
 
 ! ============================================================
 ! 5. SULASOK NETWORK
@@ -228,6 +231,7 @@
 ||pinaypie.com^
 ||pinaypie.com.ph^
 ||pinaypie.me^
+||pinaypie.ph^
 ||pinayeut.com^
 ||pinayplay.com^
 ||pinayfiles.net^
@@ -325,6 +329,7 @@
 ||jabol1.com^
 ||jaboltv.io^
 ||jaboltv.net^
+||jaboltv1.com^
 ||jantotflixtv.com^
 
 ! ============================================================
@@ -350,6 +355,7 @@
 ||pinayweb.net^
 ||pinayx.net^
 ||pinayx.ph^
+||pinayx.sbs^
 ||xpinay.cc^
 ||xpinay.one^
 ||xpinay.tv^
@@ -363,6 +369,7 @@
 ! 26. MISC FILIPINO/PINAY TUBES & AGGREGATORS
 ! ============================================================
 ||18kit.com^
+||betamax.ph^
 ||filipinatube.net^
 ||onlypinay.bz^
 ||pilipinay.tv^
