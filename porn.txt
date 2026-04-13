@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-12
+! Last updated: 2026-04-13
 ! License: MIT
-! Total rules: 292
+! Total rules: 302
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -35,6 +35,7 @@
 ||pinayflix.top^
 ||pinayflix.best^
 ||pinayflix.biz^
+||pinayflix.buzz^
 ||pinayflix.blog^
 ||pinayflix.com^
 ||pinayflix.cx^
@@ -52,6 +53,7 @@
 ||pinayflix.vg^
 ||pinayflix.vip^
 ||pinayflix.watch^
+||pinayflix.win^
 ||pinayflix.ws^
 ||pinayflix.wtf^
 ||pinayflix.xin^
@@ -133,6 +135,7 @@
 ||sulasok.pro^
 ||sulasok.to^
 ||sulasok.tv^
+||sulasok.vip^
 ||sulasok.hair^
 ||sulasok.uno^
 ||sulasok.vu^
@@ -376,6 +379,12 @@
 ! ============================================================
 ! 26. MISC FILIPINO/PINAY TUBES & AGGREGATORS
 ! ============================================================
+! Linked from sulasok.uno sidebar/banner
+||batibot.tv^
+||onlypinay.co^
+||otits.tv^
+||pinaylulu.tv^
+||sindikato.tv^
 ||18kit.com^
 ||betamax.ph^
 ||filipinatube.net^
