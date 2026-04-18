@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-17
+! Last updated: 2026-04-18
 ! License: MIT
-! Total rules: 315
+! Total rules: 319
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -40,6 +40,7 @@
 ||pinayflix.com^
 ||pinayflix.cx^
 ||pinayflix.cyou^
+||pinayflix.cv^
 ||pinayflix.day^
 ||pinayflix.fun^
 ||pinayflix.fyi^
@@ -281,6 +282,7 @@
 ||mypinayscandal.net^
 ||pahindot.com^
 ||pahindot.me^
+||pahindot.tv^
 ||pinay-porn.com^
 ||pinay-scandal.com^
 ||pinay-viral.org^
@@ -290,8 +292,10 @@
 ||pinayleak.tv^
 ||pinayleak.vip^
 ||alterpinay.vip^
+||pinayalter.com^
 ||pinaylapag.net^
 ||pinayteen.net^
+||pilipinay.tv^
 ||pinayscandalz.com^
 ||pinaysexscandal.co^
 ||pinaysexscandal.net^
@@ -400,7 +404,6 @@
 ||betamax.ph^
 ||filipinatube.net^
 ||onlypinay.bz^
-||pilipinay.tv^
 ||xpinayvids.net^
 ! Linked from this crawl, PH-specific tubes / variants
 ||pornxp.ph^
@@ -416,6 +419,7 @@
 ||pinaypie.net^
 ||bangpinay.com^
 ||boybuso.com^
+||kadyotan.com^
 ||hotmaals.com^
 ||jakolman.com^
 ||jorpetz.com^
