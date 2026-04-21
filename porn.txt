@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! Last updated: 2026-04-21
 ! License: MIT
-! Total rules: 321
+! Total rules: 325
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -97,7 +97,9 @@
 ||kayatan.com^
 ||kayatan.me^
 ||kayatan.org^
+||kaldagan.tv^
 ||kayatsex.com^
+||kayatan.vip^
 ||lootedpinay.com^
 ||lootedpinay.net^
 ||pahubad.com^
@@ -165,6 +167,7 @@
 ||xrapbeh.com^
 ||sarapbabe.com^
 ||sarapbabe.cc^
+||sarapbabe.tv^
 ||sarapbeh.com^
 ||sarappinay.net^
 
@@ -431,6 +434,8 @@
 ||ninjakol.com^
 ||pinoysexstories.xyz^
 ||rbreezy.xyz^
+! Linked from pinaybold.cc homepage/sidebar
+||pinaybang.com^
 ! Linked from pilipinay.tv sidebar
 ||pinayporn.cc^
 
