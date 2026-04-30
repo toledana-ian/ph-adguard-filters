@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-29
+! Last updated: 2026-04-30
 ! License: MIT
-! Total rules: 349
+! Total rules: 357
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -43,6 +43,7 @@
 ||pinayflix.buzz^
 ||pinayflix.blog^
 ||pinayflix.com^
+||pinayflix.com.co^
 ||pinayflix.cx^
 ||pinayflix.cyou^
 ||pinayflix.cv^
@@ -64,6 +65,8 @@
 ||pinayflix.wtf^
 ||pinayflix.xin^
 ||pinayflix.xyz^
+||pinayflixme.com^
+||pinay-flix.info^
 ||pinayflix0.com^
 ||pinayflix1.com^
 ||pinayflix2.tv^
@@ -71,9 +74,9 @@
 ||pinayflix3.com^
 ||pinayflix.surf^
 ||pinayflixcom.org^
+||pinayflixcom.com^
 ||pinayflex.net^
 ||pinayflixx.com^
-||pinay-flix.info^
 ||pinayflixplus.com^
 ||pinayflixplus.tv^
 ||pinayflixtvs.com^
@@ -140,6 +143,7 @@
 ! ============================================================
 ||sulasok.cc^
 ||sulasok.com^
+||sulasok-tv.com^
 ||sulasokvid.net^
 ||sulasokvid.xyz^
 ||sulasok.com.ph^
@@ -161,6 +165,7 @@
 ||sulasoktv.com^
 ||sulasoktv.ph^
 ||sulasoktv.to^
+||sulasoktv.org^
 ||sulasokvids.com^
 ||sulasokvids.net^
 ||sulasokvids.org^
@@ -175,6 +180,7 @@
 ||rapbeh.ph^
 ||rapbeh.vip^
 ||rapbeh.xyz^
+||rapbeh.org^
 ||xrapbeh.com^
 ||sarapbabe.com^
 ||sarapbabe.cc^
@@ -325,6 +331,7 @@
 ||pinayviralsexx.com^
 ||pinayvideoscandals.com^
 ||pinayvids.com^
+||wowpinay.cc^
 ||pinayvlog.com^
 ||philippineporn.net^
 
@@ -399,7 +406,6 @@
 ||pinaycumvids.com^
 ||pinaycumvids.xyz^
 ||pinaycum.tv^
-||pinaylulu.cz^
 ||pinayweb.net^
 ||pinayx.net^
 ||pinayx.ph^
@@ -424,6 +430,8 @@
 ! Linked from pinaylulu.tv crawl
 ||pinaylulu-tv.com^
 ||pinayluluvids.xyz^
+||pinaylulu.biz^
+||pinaylulu.cz^
 ||sindikato.tv^
 ||18kit.com^
 ||betamax.ph^
