@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-04-30
+! Last updated: 2026-05-01
 ! License: MIT
-! Total rules: 357
+! Total rules: 365
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -112,6 +112,7 @@
 ||lootedpinay.com^
 ||lootedpinay.net^
 ||lootedpinay.org^
+||looted-pinay.com^
 ||pahubad.com^
 
 ! ============================================================
@@ -237,6 +238,7 @@
 ! ============================================================
 ||manyakol.net^
 ||pinay-hub.com^
+||pinay-hub.org^
 ||pinaybold.cc^
 ||pinaybold.com^
 ||pinayhubvid.com^
@@ -293,6 +295,8 @@
 ||asianpinay.com.ph^
 ||asianpinay.ph^
 ||asianpinay.ru^
+||asian-pinay.com^
+||asianpinays.com^
 ||iyoteen.cc^
 ||iyoteen.net^
 ||iyoteen.org^
@@ -313,6 +317,7 @@
 ||pinay-porn.com^
 ||pinay-scandal.com^
 ||pinay-viral.org^
+||pinay-viral.com^
 ||pinay.sex^
 ||pinaynay.com^
 ||pinaynay.org^
@@ -384,6 +389,7 @@
 ||jaboltv.net^
 ||jaboltv1.com^
 ||jantotflixtv.com^
+||pinoy-jakol.com^
 
 ! ============================================================
 ! 22. SINDIKATO / SNDKTO NETWORK
@@ -471,4 +477,7 @@
 ||pinaybang.com^
 ! Linked from pilipinay.tv sidebar
 ||pinayporn.cc^
+! Linked from pinay-flix.com homepage/footer
+||pinay-telegram.com^
+||pinaytelegram.com^
 
