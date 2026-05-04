@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-03
+! Last updated: 2026-05-04
 ! License: MIT
-! Total rules: 373
+! Total rules: 400
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -258,6 +258,49 @@
 ||pinayhub.tv^
 ||pinayhub.org^
 ||pinayhubtv.com^
+
+! ============================================================
+! 27. ONLYPINAY / XPINAY / PINAYX / PINAYWEB NETWORK
+! ============================================================
+||onlypinay.site^
+||onlypinay.tv^
+||onlypinayvideo.xyz^
+||pinayx.cc^
+||pinayx.com^
+||pinayxvideo.xyz^
+||pinayweb.tv^
+||xpinayvids.org^
+
+! ============================================================
+! 28. ASIANPINAY / YESPINAY / PINAY-FLEX NETWORK
+! ============================================================
+||asian-pinay.org^
+||asianpinay.co.uk^
+||gc.asianpinay.cc^
+||pinay-flex.com^
+||the-asianpinay.com^
+||yespinay.org^
+
+! ============================================================
+! 29. PINAYFLIX / PINAYFILES / PINAYPORN VARIANTS
+! ============================================================
+||bembangstories.com^
+||pinayflicks.com^
+||pinayfiles.tv^
+||pinayflix.lol^
+||pinayflixvids.xyz^
+||pinayporn.vip^
+
+! ============================================================
+! 30. KALDAGAN / KATORSEX / MISC PH VARIANTS
+! ============================================================
+||kaldagan.cam^
+||katorsex.top^
+||members.filipinastripper.com^
+||ninjakoltv.com^
+||pinaydoggy.com^
+||pinayindex.net^
+||pinayumtv.net^
 ||pinayhubvideo.xyz^
 
 ! ============================================================
