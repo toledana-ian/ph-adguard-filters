@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! Last updated: 2026-05-06
 ! License: MIT
-! Total rules: 403
+! Total rules: 404
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -83,6 +83,7 @@
 ||pinayflixx.com^
 ||pinayflixplus.com^
 ||pinayflixplus.tv^
+! New PinayFlix variant discovered via crawl/search
 ||pinayflixtvs.com^
 ||pinayflixvip.com^
 ||pinayfliz.com^
@@ -431,6 +432,8 @@
 ||pwetan.lol^
 ||pwetflix.com^
 ||wowpinay.com^
+! Linked from pinayreel.tv / pinayvlog.com crawl
+||pwetantv.net^
 
 ! ============================================================
 ! 21. JABOLTV / JANTOTFLIX / JABOL NETWORK
