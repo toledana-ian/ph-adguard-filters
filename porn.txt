@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-06
+! Last updated: 2026-05-07
 ! License: MIT
-! Total rules: 404
+! Total rules: 424
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -44,6 +44,7 @@
 ||pinayflix.buzz^
 ||pinayflix.blog^
 ||pinayflix.com^
+||pinayflix.co^
 ||pinayflix.com.co^
 ||pinayflix.cx^
 ||pinayflix.cyou^
@@ -153,6 +154,7 @@
 ! ============================================================
 ||sulasok.cc^
 ||sulasok.com^
+||sulasok.am^
 ||sulasok-tv.com^
 ||sulasokvid.net^
 ||sulasokvid.xyz^
@@ -280,6 +282,19 @@
 ||gc.asianpinay.cc^
 ||pinay-flex.com^
 ||the-asianpinay.com^
+||asianpinay.de^
+||asianpinay.in^
+||asianpinay.info^
+||asianpinay.me^
+||asianpinay.net^
+||asianpinay.online^
+||asianpinay.org^
+||asianpinay.site^
+||asianpinay.top^
+||asianpinay.vip^
+||asianpinay.xyz^
+||asianpinayph.com^
+||asianpinayph.net^
 ||yespinay.org^
 
 ! ============================================================
@@ -390,7 +405,10 @@
 ||pinayvids.com^
 ||wowpinay.cc^
 ||pinayvlog.com^
+||pinayvlog.org^
 ||philippineporn.net^
+||pahindot.cc^
+||pahindot.vip^
 
 ! ============================================================
 ! 16. KAINPEPE / KAINPOPOY / LIBOGGIRLS NETWORK
@@ -470,6 +488,8 @@
 ||pinayx.net^
 ||pinayx.ph^
 ||pinayx.sbs^
+||pinayxvids.com^
+||xpinayvideos.com^
 ||xpinay.cc^
 ||xpinay.one^
 ||xpinay.tv^
