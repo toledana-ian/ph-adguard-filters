@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-09
+! Last updated: 2026-05-10
 ! License: MIT
-! Total rules: 433
+! Total rules: 455
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -86,6 +86,8 @@
 ||pinayflixplus.com^
 ||pinayflixplus.tv^
 ! New PinayFlix variant discovered via crawl/search
+||pinayflix123.com^
+||pinayflixfree.net^
 ||pinayflixtvs.com^
 ||pinayflixvip.com^
 ||pinayfliz.com^
@@ -142,6 +144,7 @@
 ||kantotinyo.com^
 ||kantotplus.com^
 ||kantotph.com^
+||kantotin.ph^
 ||kantotsex.com^
 ||kanortube.com^
 ||kantotvids.com^
@@ -272,6 +275,7 @@
 ||onlypinay.site^
 ||onlypinay.tv^
 ||onlypinayvideo.xyz^
+||onlypinayvid.xyz^
 ||pinayx.cc^
 ||pinayx.com^
 ||pinayxvideo.xyz^
@@ -285,6 +289,8 @@
 ||asianpinay.co.uk^
 ||gc.asianpinay.cc^
 ||pinay-flex.com^
+||pinayflex.com^
+||pinayflex-tv.com^
 ||the-asianpinay.com^
 ||asianpinay.de^
 ||asianpinay.in^
@@ -299,6 +305,7 @@
 ||asianpinay.xyz^
 ||asianpinayph.com^
 ||asianpinayph.net^
+||pinayasian.com^
 ||yespinay.org^
 
 ! ============================================================
@@ -332,6 +339,7 @@
 ||pinayum.cx^
 ||pinayum.org^
 ||pinay-yum.com^
+||pinayyum.com^
 ||pinayumtv.com^
 ||pinayumtv.me^
 ||pinayumtv.org^
@@ -372,6 +380,7 @@
 ||iyoteen.cc^
 ||iyoteen.net^
 ||iyoteen.org^
+||iyoteen.com^
 ||pilipinay.com^
 ||pinayvlog.cc^
 ||vipinay.cc^
@@ -457,6 +466,8 @@
 ||pwetan.art^
 ||pwetflix.com^
 ||wowpinay.com^
+||pwetan.gg^
+||pwetantv.com^
 ! Linked from pinayreel.tv / pinayvlog.com crawl
 ||pwetantv.net^
 
@@ -469,6 +480,8 @@
 ||jaboltv1.com^
 ||jantotflixtv.com^
 ||pinoy-jakol.com^
+||jabol.tv^
+||jaboltv.org^
 
 ! ============================================================
 ! 22. SINDIKATO / SNDKTO NETWORK
@@ -488,6 +501,8 @@
 ! ============================================================
 ||onlypinay.io^
 ||pinaycum.com^
+||pinaycum.xyz^
+||pinaycumvid.xyz^
 ||pinaycumvids.com^
 ||pinaycumvids.xyz^
 ||pinaycum.tv^
@@ -523,6 +538,8 @@
 ||18kit.com^
 ||betamax.ph^
 ||filipinatube.net^
+||filipinoxstories.com^
+||libog-stories.com^
 ||onlypinay.bz^
 ||xpinayvids.net^
 ! Linked from this crawl, PH-specific tubes / variants
@@ -545,12 +562,17 @@
 ||jorpetz.com^
 ||kifpy.com^
 ||kutitot.com^
+||otits.net^
+||otitsvid.com^
+||rbreezy.net^
+||youjaks.com^
 ||lambingflix.com^
 ||ninjakol.cc^
 ||ninjakol.com^
 ! Linked from onlypinay.site homepage / pinayreal crawl
 ||onlypinay.com^
 ||pinayreal.com^
+||pinaykantot.com^
 ! Linked from pinaylulu.tv crawl
 ||pinayluluvid.xyz^
 ||pinaynay1.com^
