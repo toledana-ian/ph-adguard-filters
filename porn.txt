@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-10
+! Last updated: 2026-05-11
 ! License: MIT
-! Total rules: 455
+! Total rules: 457
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -187,6 +187,8 @@
 ||sulasokvids.com^
 ||sulasokvids.net^
 ||sulasokvids.org^
+! New sulasok.me variant discovered via Bing crawl
+||sulasok.me^
 
 ! ============================================================
 ! 6. RAPBEH / SARAP / SARAPPINAY NETWORK
@@ -423,6 +425,8 @@
 ||philippineporn.net^
 ||pahindot.cc^
 ||pahindot.vip^
+! New PinayViralSex variant discovered via Bing crawl
+||pinayviralsex.com^
 
 ! ============================================================
 ! 16. KAINPEPE / KAINPOPOY / LIBOGGIRLS NETWORK
