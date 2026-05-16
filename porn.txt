@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-15
+! Last updated: 2026-05-16
 ! License: MIT
-! Total rules: 464
+! Total rules: 485
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -59,11 +59,13 @@
 ||pinayflix.pl^
 ||pinayflix.one^
 ||pinayflix.online^
+||pinayflix.bz^
 ||pinayflix.sh^
 ||pinayflix.tv^
 ||pinayflix.vg^
 ||pinayflix.vu^
 ||pinayflix.vip^
+||pinayflix.ph^
 ||pinayflix.ro^
 ||pinayflix.watch^
 ||pinayflix.win^
@@ -176,6 +178,9 @@
 ||sulasok.vip^
 ||sulasok.hair^
 ||sulasok.uno^
+||sulasok.site^
+||sulasok.sbs^
+||sulasok.fun^
 ||sulasok.vu^
 ||sulasok.win^
 ||sulasok.su^
@@ -236,6 +241,8 @@
 ||pinayrare.net^
 ||pinayreel.fun^
 ||pinayreel.org^
+||pinayreel.cc^
+||pinayreel.com^
 ||pinayreel.tv^
 
 ! ============================================================
@@ -325,12 +332,19 @@
 ||pinayflixvids.xyz^
 ||pinayporn.vip^
 ||pinayporn.co^
+||pinayporn.net^
+||pinayporn.site^
+||pinayporn.xyz^
+! New PinayPorn variant discovered via PinayBold crawl
+||pinayporn.cc^
 
 ! ============================================================
 ! 30. KALDAGAN / KATORSEX / MISC PH VARIANTS
 ! ============================================================
 ||kaldagan.cam^
 ||katorsex.top^
+||katorsex.net^
+||katorsex.tv^
 ||members.filipinastripper.com^
 ||ninjakoltv.com^
 ||pinaydoggy.com^
@@ -362,6 +376,8 @@
 ||pinaypie.ph^
 ||pinaypie.vip^
 ||pinaypie.cv^
+||pinaypie.tv^
+||pinaypie.fun^
 ||pinaypie-tv.com^
 ||pinaypietv.com^
 ||pinayeut.com^
@@ -428,6 +444,7 @@
 ||wowpinay.cc^
 ||pinayvlog.com^
 ||pinayvlog.org^
+||pinayvlog.net^
 ||philippineporn.net^
 ||pahindot.cc^
 ||pahindot.vip^
@@ -452,6 +469,7 @@
 ! 18. PINAYONE / PINAYOK / PINAYOT MISC
 ! ============================================================
 ||pinayok.com^
+||pinayone.com^
 ||pinayone.net^
 ||pinayot.com^
 ||pinayot.tv^
@@ -474,6 +492,7 @@
 ||pwetan.one^
 ||pwetan.lol^
 ||pwetan.art^
+||pwetan.ph^
 ||pwetflix.com^
 ||wowpinay.com^
 ||pwetan.gg^
@@ -510,6 +529,7 @@
 ! 24. XPINAY / PINAYX / PINAYLULU / PINAYWEB / PINAYCUM
 ! ============================================================
 ||onlypinay.io^
+||onlypinay.cc^
 ||pinaycum.com^
 ||pinaycum.xyz^
 ||pinaycumvid.xyz^
@@ -525,6 +545,7 @@
 ||xpinay.cc^
 ||xpinay.one^
 ||xpinay.tv^
+||pinay69.com^
 
 ! ============================================================
 ! 25. TRIKEPATROL (PH-FOCUSED, FOREIGN-PRODUCED)
@@ -539,6 +560,8 @@
 ||onlypinay.co^
 ||otits.tv^
 ||pinaylulu.tv^
+! Linked from onlypinay.site crawl
+||pinayreal.com^
 ! Linked from pinaylulu.tv crawl
 ||pinaylulu-tv.com^
 ||pinayluluvids.xyz^
@@ -551,6 +574,8 @@
 ||filipinoxstories.com^
 ||libog-stories.com^
 ||onlypinay.bz^
+||onlypinay.fun^
+||pinaybang.net^
 ||xpinayvids.net^
 ! Linked from this crawl, PH-specific tubes / variants
 ||pornxp.ph^
@@ -583,7 +608,6 @@
 ||ninjakol.pro^
 ! Linked from onlypinay.site homepage / pinayreal crawl
 ||onlypinay.com^
-||pinayreal.com^
 ||pinaykantot.com^
 ! Linked from pinaylulu.tv crawl
 ||pinayluluvid.xyz^
@@ -597,7 +621,6 @@
 ! Linked from pinaybold.cc homepage/sidebar
 ||pinaybang.com^
 ! Linked from pilipinay.tv sidebar
-||pinayporn.cc^
 ! Linked from pinay-flix.com homepage/footer
 ||pinay-telegram.com^
 ||pinaytelegram.com^
