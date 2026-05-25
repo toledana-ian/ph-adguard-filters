@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! Last updated: 2026-05-25
 ! License: MIT
-! Total rules: 489
+! Total rules: 490
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -284,6 +284,7 @@
 ||pinayhub.tv^
 ||pinayhub.org^
 ||pinayhubtv.com^
+! New PinayHub variant discovered via search
 
 ! ============================================================
 ! 27. ONLYPINAY / XPINAY / PINAYX / PINAYWEB NETWORK
@@ -570,6 +571,7 @@
 ||pinaylulu-tv.com^
 ||pinayluluvids.xyz^
 ||pinaylulu.biz^
+||pinaylulu.com^
 ||pinaylulu.cz^
 ||sindikato.tv^
 ||18kit.com^
