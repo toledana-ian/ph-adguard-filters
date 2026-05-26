@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-25
+! Last updated: 2026-05-26
 ! License: MIT
-! Total rules: 490
+! Total rules: 495
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -106,6 +106,8 @@
 ||pinayflixtv.tv^
 ||pinayflixtv.ph^
 ||pinayhunter.tv^
+||pinayflix.xxx^
+||pinayflix.yt^
 
 ! ============================================================
 ! 3. KALDAGAN / KAYATAN / KATORSEX / LOOTEDPINAY ECOSYSTEM
@@ -140,6 +142,7 @@
 ||kantotflix.com^
 ||kantotflix.net^
 ||kantotflix.tv^
+||kantotflix.org^
 ||kantotin.com^
 ||kantotin.net^
 ||kantotin.tv^
@@ -441,6 +444,7 @@
 ||pinayscandalz.com^
 ||pinaysexscandal.co^
 ||pinaysexscandal.net^
+||pinaysex.watch^
 ||pinaysmut.com^
 ||pinaytea.com^
 ||pinayviralsexx.com^
@@ -612,6 +616,7 @@
 ||ninjakol.com^
 ||ninjakol.me^
 ||ninjakol.pro^
+||sexninja.co^
 ! Linked from onlypinay.site homepage / pinayreal crawl
 ||onlypinay.com^
 ||pinaykantot.com^
