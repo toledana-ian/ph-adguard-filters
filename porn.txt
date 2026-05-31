@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-30
+! Last updated: 2026-05-31
 ! License: MIT
-! Total rules: 508
+! Total rules: 511
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -139,6 +139,8 @@
 ||lootedpinay.org^
 ||looted-pinay.com^
 ||pahubad.com^
+! New Kaldagan-related redirect discovered via search
+||kainpepe.me^
 
 ! ============================================================
 ! 4. KANTOTIN / KANTOTERO / KANTOTFLIX / KANTOTSEX NETWORK
@@ -210,6 +212,8 @@
 ! New sulasok.me variant discovered via Bing crawl
 ||sulasok.me^
 ||sulasok.ph^
+! New sulasok variant discovered via search
+||sulasok.fit^
 ! New sulasok variant discovered via crawl
 ||sulasokvids.xyz^
 ||sulasokvids1.xyz^
@@ -278,6 +282,8 @@
 ||rapsababe.tv^
 ||rapsanet.tv^
 ||vivamaxflix.com^
+! New RektaBOLD/Vivamax spin-off discovered via search
+||rektabold.com^
 
 ! ============================================================
 ! 12. PINAYHUB / MANYAKOL NETWORK
