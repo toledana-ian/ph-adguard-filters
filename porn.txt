@@ -1,7 +1,7 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-05-31
+! Last updated: 2026-06-01
 ! License: MIT
 ! Total rules: 511
 
