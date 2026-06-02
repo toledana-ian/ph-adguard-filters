@@ -1,9 +1,9 @@
 ! Title: PH Porn Blocklist
 ! Description: AdGuard filter rules blocking Philippine adult/porn sites.
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
-! Last updated: 2026-06-01
+! Last updated: 2026-06-02
 ! License: MIT
-! Total rules: 511
+! Total rules: 512
 
 ! ============================================================
 ! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
@@ -55,6 +55,7 @@
 ||pinayflix.gg^
 ||pinayflix.im^
 ||pinayflix.me^
+||pinayflix.nl^
 ||pinayflix.red^
 ||pinayflix.ch^
 ||pinayflix.pm^
