@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
+||18kit.com^
 ||alterpinay.vip^
 ||aquamarine-mosquito-617647.hostingersite.com^
 ||asian-pinay.com^
@@ -37,6 +38,7 @@
 ||bibamax.ph^
 ||boybuso.com^
 ||boyjackpot.com^
+||euttube.com^
 ||fakboi.org^
 ||fakboi.tv^
 ||fareastpornhub.com^
@@ -136,6 +138,7 @@
 ||pinay-flix.com^
 ||pinay-flix.info^
 ||pinay-flix.net^
+||pinay-flix.tv^
 ||pinay-hub.com^
 ||pinay-hub.org^
 ||pinay-porn.com^
