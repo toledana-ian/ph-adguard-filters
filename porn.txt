@@ -3,24 +3,173 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
-! ============================================================
-! 1. INTERNATIONAL SITES (ISP-blocked in PH since Jan 2017)
-! ============================================================
-||pornhub.com^
-||redtube.com^
-||thisvid.com^
-||xhamster.com^
-||xvideos.com^
-||youporn.com^
-
-! ============================================================
-! 2. PINAYFLIX NETWORK
-! ============================================================
+||18kit.com^
+||alterpinay.vip^
+||asian-pinay.com^
+||asian-pinay.org^
+||asianbold.com^
+||asianpinay.asia^
+||asianpinay.cc^
+||asianpinay.com^
+||asianpinay.com.ph^
+||asianpinay.info^
+||asianpinay.me^
+||asianpinay.net^
+||asianpinay.org^
+||asianpinay.ph^
+||asianpinay.to^
+||asianpinay.top^
+||asianpinayph.com^
+||asianpinayph.net^
+||asianpinays.com^
+||asianviral.com^
+||asianviral.net^
+||baddieshub247.com^
+||bangpinay.com^
+||batibot.tv^
+||bembang.tv^
+||bembangstories.com^
+||betamax.ph^
+||bibamax.cc^
+||bibamax.com^
+||bibamax.ph^
+||boybuso.com^
+||enigmatic.tv^
+||euttube.com^
+||fakboi.org^
+||fakboi.tv^
+||filipinagogo.com^
+||filipinastripper.com^
+||filipinawebcams.com^
+||filipinoxstories.com^
+||gc.asianpinay.cc^
+||hdkantotin.com^
+||hotmaals.com^
+||hunkypinoytv.com^
+||iyoteen.cc^
+||iyoteen.com^
+||iyoteen.net^
+||iyoteen.org^
+||iyotflix.com^
+||iyottube.org^
+||jabol.tv^
+||jaboltv.io^
+||jaboltv.net^
+||jaboltv.org^
+||jakolman.com^
+||jorpetz.com^
+||kainpepe.me^
+||kainpepe.net^
+||kainpopoy.com^
+||kaldagan.cam^
+||kaldagan.co^
+||kaldagan.com^
+||kaldagan.com.ph^
+||kaldagan.me^
+||kaldagan.tv^
+||kaltokan.cc^
+||kaltokan.com^
+||kantotbabe.com^
+||kantotero.com^
+||kantotero.net^
+||kantotero.wordpress.com^
+||kantotflix.com^
+||kantotflix.org^
+||kantotflix.tv^
+||kantotin.cam^
+||kantotin.com^
+||kantotin.com.ph^
+||kantotin.net^
+||kantotin.ph^
+||kantotin.tv^
+||kantotintv.com^
+||kantotinyo.com^
+||kantotph.com^
+||kantotplus.com^
+||kantotvids.com^
+||kantotvids.net^
+||kantotvids.org^
+||kaplog.com^
+||katorsex.cc^
+||katorsex.com^
+||katorsex.me^
+||katorsex.net^
+||katorsex.ph^
+||katorsex.top^
+||katorsex.tv^
+||kayatan.com^
+||kayatan.org^
+||kayatan.vip^
+||kifpy.com^
+||kutitot.com^
+||lambingflix.com^
+||libog-stories.com^
+||liboggirls.net^
+||looted-pinay.com^
+||lootedpinay.com^
+||lootedpinay.net^
+||lootedpinay.org^
+||manyakol.net^
+||members.filipinastripper.com^
+||moviekhhd.biz^
+||ninjakol.cc^
+||ninjakol.com^
+||ninjakol.me^
+||ninjakol.pro^
+||ninjakoltv.com^
+||onlypinay.bz^
+||onlypinay.co^
+||onlypinay.fun^
+||onlypinay.io^
+||onlypinay.site^
+||onlypinay.tv^
+||onlypinayvid.xyz^
+||onlypinayvideo.xyz^
+||pahindot.cc^
+||pahindot.com^
+||pahindot.me^
+||pahindot.tv^
+||pahindot.vip^
+||philippineporn.net^
+||pilipinay.com^
+||pilipinay.tv^
 ||pinatflix.com^
+||pinay-flex.com^
 ||pinay-flix.cc^
 ||pinay-flix.com^
 ||pinay-flix.net^
 ||pinay-flix.tv^
+||pinay-hub.com^
+||pinay-hub.org^
+||pinay-kantutan.com^
+||pinay-porn.com^
+||pinay-scandal.com^
+||pinay-telegram.com^
+||pinay-viral.com^
+||pinay-viral.org^
+||pinay-yum.com^
+||pinay.sex^
+||pinay69.com^
+||pinayalter.com^
+||pinaybang.com^
+||pinaybang.net^
+||pinaybembang.com^
+||pinaybold.cc^
+||pinaybold.com^
+||pinaybold.tv^
+||pinaycartel.net^
+||pinaycum.com^
+||pinaycum.tv^
+||pinaycum.xyz^
+||pinaycumvid.xyz^
+||pinaycumvids.com^
+||pinaycumvids.xyz^
+||pinaydede.com^
+||pinaydeepweb.com^
+||pinaydoggy.com^
+||pinayeut.com^
+||pinayfiles.net^
+||pinayfiles.tv^
 ||pinayflex.net^
 ||pinayflicks.com^
 ||pinayflix.app^
@@ -95,65 +244,139 @@
 ||pinayflixx.com^
 ||pinayfliz.com^
 ||pinayfliz.tv^
-
-! ============================================================
-! 3. KALDAGAN / KAYATAN / KATORSEX / LOOTEDPINAY ECOSYSTEM
-! ============================================================
-||kainpepe.me^
-||kaldagan.cam^
-||kaldagan.co^
-||kaldagan.com^
-||kaldagan.com.ph^
-||kaldagan.me^
-||kaldagan.tv^
-||kaltokan.cc^
-||kaltokan.com^
-||katorsex.cc^
-||katorsex.com^
-||katorsex.me^
-||katorsex.net^
-||katorsex.ph^
-||katorsex.top^
-||katorsex.tv^
-||kayatan.com^
-||kayatan.org^
-||kayatan.vip^
-||looted-pinay.com^
-||lootedpinay.com^
-||lootedpinay.net^
-||lootedpinay.org^
-
-! ============================================================
-! 4. KANTOTIN / KANTOTERO / KANTOTFLIX / KANTOTSEX NETWORK
-! ============================================================
-||hdkantotin.com^
-||kantotbabe.com^
-||kantotero.com^
-||kantotero.net^
-||kantotero.wordpress.com^
-||kantotflix.com^
-||kantotflix.org^
-||kantotflix.tv^
-||kantotin.cam^
-||kantotin.com^
-||kantotin.com.ph^
-||kantotin.net^
-||kantotin.ph^
-||kantotin.tv^
-||kantotintv.com^
-||kantotinyo.com^
-||kantotph.com^
-||kantotplus.com^
-||kantotvids.com^
-||kantotvids.net^
-||kantotvids.org^
-||pinay-kantutan.com^
+||pinayfyp.com^
+||pinaygo.com^
+||pinayhdporn.com^
+||pinayhub.bz^
+||pinayhub.com^
+||pinayhub.org^
+||pinayhub.tv^
+||pinayhubtv.com^
+||pinayhubvid.com^
+||pinayhubvideo.com^
+||pinayhubvideo.ph^
+||pinayhubvideo.xyz^
+||pinayhunter.tv^
 ||pinaykantot.cc^
 ||pinaykantot.com^
-
-! ============================================================
-! 5. SULASOK NETWORK
-! ============================================================
+||pinayleak.tv^
+||pinayleak.vip^
+||pinaylulu-tv.com^
+||pinaylulu.com^
+||pinaylulu.cz^
+||pinaylulu.tv^
+||pinayluluvid.xyz^
+||pinayluluvid1.xyz^
+||pinayluluvids.xyz^
+||pinaynay.com^
+||pinaynay.net^
+||pinaynay1.com^
+||pinaynay2.com^
+||pinayone.com^
+||pinayone.net^
+||pinayot.cc^
+||pinayot.com^
+||pinayot.tv^
+||pinaypie-tv.com^
+||pinaypie.cc^
+||pinaypie.co^
+||pinaypie.com^
+||pinaypie.com.ph^
+||pinaypie.cv^
+||pinaypie.me^
+||pinaypie.net^
+||pinaypie.ph^
+||pinaypie.tv^
+||pinaypie.vip^
+||pinaypietv.com^
+||pinayplay.com^
+||pinaypops.com^
+||pinayporn.cc^
+||pinayporn.co^
+||pinayporn.it.com^
+||pinayporn.net^
+||pinayporn.site^
+||pinayporn.vip^
+||pinayporn.xyz^
+||pinayporndaddy.com^
+||pinayporno.com^
+||pinaypornsite.com^
+||pinaypuke.com^
+||pinayrare.net^
+||pinayreal.com^
+||pinayreel.com^
+||pinayreel.fun^
+||pinayreel.org^
+||pinayreel.tv^
+||pinaysex.watch^
+||pinaysite.com^
+||pinaytea.com^
+||pinayteen.net^
+||pinaytelegram.com^
+||pinaytg.com^
+||pinayum.cc^
+||pinayum.co^
+||pinayum.cx^
+||pinayum.org^
+||pinayum.ph^
+||pinayumtv.com^
+||pinayumtv.me^
+||pinayumtv.net^
+||pinayumtv.org^
+||pinayvideoscandals.com^
+||pinayvids.com^
+||pinayviralsex.com^
+||pinayviralsexx.com^
+||pinayvlog.cc^
+||pinayvlog.com^
+||pinayvlog.net^
+||pinayvlog.org^
+||pinayweb.net^
+||pinayweb.tv^
+||pinayx.cc^
+||pinayx.com^
+||pinayx.net^
+||pinayx.ph^
+||pinayx.sbs^
+||pinayxvideo.com^
+||pinayxvideo.xyz^
+||pinayxvids.com^
+||pinayyum.cc^
+||pinoy-jakol.com^
+||pinoyerotica.com^
+||pinoysexstories.xyz^
+||pornhub.com^
+||pornhubpinay.com^
+||pornxp.ph^
+||pwerta.com^
+||pwetan.art^
+||pwetan.com^
+||pwetan.lol^
+||pwetan.me^
+||pwetan.one^
+||pwetan.ph^
+||pwetantv.com^
+||pwetantv.net^
+||pwetflix.com^
+||rapbeh.co^
+||rapbeh.com^
+||rapbeh.cx^
+||rapbeh.org^
+||rapbeh.ph^
+||rapbeh.tv^
+||rapbeh.vip^
+||rapbeh.xyz^
+||rapsababe.tv^
+||rapsanet.tv^
+||rbreezy.xyz^
+||redtube.com^
+||rektabold.com^
+||sarapbabe.com^
+||sarapbeh.com^
+||sexninja.co^
+||sindikato.tv^
+||sndkto.org^
+||sndkto.tv^
 ||sulasok-tv.com^
 ||sulasok.am^
 ||sulasok.bz^
@@ -183,356 +406,34 @@
 ||sulasokvids.com^
 ||sulasokvids.xyz^
 ||sulasokvids1.xyz^
-
-! ============================================================
-! 6. RAPBEH / SARAP / SARAPPINAY NETWORK
-! ============================================================
-||rapbeh.co^
-||rapbeh.com^
-||rapbeh.cx^
-||rapbeh.org^
-||rapbeh.ph^
-||rapbeh.tv^
-||rapbeh.vip^
-||rapbeh.xyz^
-||sarapbabe.com^
-||sarapbeh.com^
-
-! ============================================================
-! 7. IYOTTUBE / IYOTFLIX / EUTTUBE NETWORK
-! ============================================================
-||euttube.com^
-||iyoteen.cc^
-||iyoteen.com^
-||iyoteen.net^
-||iyoteen.org^
-||iyotflix.com^
-||iyottube.org^
-
-! ============================================================
-! 8. BEMBANG NETWORK
-! ============================================================
-||bembang.tv^
-||bembangstories.com^
-||pinaybembang.com^
-
-! ============================================================
-! 9. FAKBOI / PINAYREEL NETWORK
-! ============================================================
-||fakboi.org^
-||fakboi.tv^
-||pinayrare.net^
-||pinayreel.com^
-||pinayreel.fun^
-||pinayreel.org^
-||pinayreel.tv^
-
-! ============================================================
-! 10. KAPLOG / TORJACKAN / XTORJACK NETWORK
-! ============================================================
-||kaplog.com^
+||the-asianpinay.com^
+||thisvid.com^
+||tik.cx^
 ||torjackan.info^
-||xtorjack.com^
-
-! ============================================================
-! 11. VIVAMAX PIRACY / RAPSANET / ENIGMATIC TV
-! ============================================================
-||bibamax.cc^
-||bibamax.com^
-||bibamax.ph^
-||enigmatic.tv^
-||lambingflix.com^
-||moviekhhd.biz^
-||rapsababe.tv^
-||rapsanet.tv^
-||rektabold.com^
+||trikepatrol.com^
+||tsupaan.com^
+||vipinay.cc^
+||vipinay.com^
+||vipinay.org^
 ||vivamaxflix.com^
 ||vivamaxph.com^
-
-! ============================================================
-! 12. PINAYHUB / MANYAKOL NETWORK
-! ============================================================
-||baddieshub247.com^
-||manyakol.net^
-||pinay-hub.com^
-||pinay-hub.org^
-||pinayhub.bz^
-||pinayhub.com^
-||pinayhub.org^
-||pinayhub.tv^
-||pinayhubtv.com^
-||pinayhubvid.com^
-||pinayhubvideo.com^
-||pinayhubvideo.ph^
-||pinayhubvideo.xyz^
-
-! ============================================================
-! 13. ONLYPINAY / XPINAY / PINAYX / PINAYWEB NETWORK
-! ============================================================
-||onlypinay.bz^
-||onlypinay.co^
-||onlypinay.fun^
-||onlypinay.io^
-||onlypinay.site^
-||onlypinay.tv^
-||onlypinayvid.xyz^
-||onlypinayvideo.xyz^
-||pinay69.com^
-||pinaycum.com^
-||pinaycum.tv^
-||pinaycum.xyz^
-||pinaycumvid.xyz^
-||pinaycumvids.com^
-||pinaycumvids.xyz^
-||pinayweb.net^
-||pinayweb.tv^
-||pinayx.cc^
-||pinayx.com^
-||pinayx.net^
-||pinayx.ph^
-||pinayx.sbs^
-||pinayxvideo.com^
-||pinayxvideo.xyz^
-||pinayxvids.com^
+||wowpinay.cc^
+||wowpinay.com^
+||xbree.tv^
+||xbree1.com^
+||xbreetv.com^
+||xhamster.com^
 ||xpinay.cc^
 ||xpinay.one^
 ||xpinay.tv^
 ||xpinayvideos.com^
 ||xpinayvids.net^
 ||xpinayvids.org^
-
-! ============================================================
-! 14. ASIANPINAY / YESPINAY NETWORK
-! ============================================================
-||asian-pinay.com^
-||asian-pinay.org^
-||asianpinay.asia^
-||asianpinay.cc^
-||asianpinay.com^
-||asianpinay.com.ph^
-||asianpinay.info^
-||asianpinay.me^
-||asianpinay.net^
-||asianpinay.org^
-||asianpinay.ph^
-||asianpinay.to^
-||asianpinay.top^
-||asianpinayph.com^
-||asianpinayph.net^
-||asianpinays.com^
-||asianviral.com^
-||asianviral.net^
-||gc.asianpinay.cc^
-||the-asianpinay.com^
+||xtorjack.com^
+||xvideos.com^
 ||yespinay.cc^
 ||yespinay.com^
 ||yespinay.org^
-
-! ============================================================
-! 15. PINAYPORN / PINAYFILES / PINAYPIE / PINAYYUM VARIANTS
-! ============================================================
-||pinay-yum.com^
-||pinayeut.com^
-||pinayfiles.net^
-||pinayfiles.tv^
-||pinayfyp.com^
-||pinaypie-tv.com^
-||pinaypie.cc^
-||pinaypie.co^
-||pinaypie.com^
-||pinaypie.com.ph^
-||pinaypie.cv^
-||pinaypie.me^
-||pinaypie.net^
-||pinaypie.ph^
-||pinaypie.tv^
-||pinaypie.vip^
-||pinaypietv.com^
-||pinayplay.com^
-||pinayporn.cc^
-||pinayporn.co^
-||pinayporn.it.com^
-||pinayporn.net^
-||pinayporn.site^
-||pinayporn.vip^
-||pinayporn.xyz^
-||pinayporndaddy.com^
-||pinayporno.com^
-||pinaypornsite.com^
-||pinaypuke.com^
-||pinaysite.com^
-||pinayum.cc^
-||pinayum.co^
-||pinayum.cx^
-||pinayum.org^
-||pinayum.ph^
-||pinayumtv.com^
-||pinayumtv.me^
-||pinayumtv.net^
-||pinayumtv.org^
-||pinayyum.cc^
-
-! ============================================================
-! 16. PINAYVIRAL / PINAYLEAK / SCANDAL SITES
-! ============================================================
-||alterpinay.vip^
-||pahindot.cc^
-||pahindot.com^
-||pahindot.me^
-||pahindot.tv^
-||pahindot.vip^
-||philippineporn.net^
-||pilipinay.com^
-||pilipinay.tv^
-||pinay-porn.com^
-||pinay-scandal.com^
-||pinay-viral.com^
-||pinay-viral.org^
-||pinayalter.com^
-||pinayleak.tv^
-||pinayleak.vip^
-||pinaynay.com^
-||pinaynay.net^
-||pinaynay1.com^
-||pinaynay2.com^
-||pinaytea.com^
-||pinayteen.net^
-||pinayvideoscandals.com^
-||pinayviralsex.com^
-||pinayviralsexx.com^
-||pinayvlog.cc^
-||pinayvlog.com^
-||pinayvlog.net^
-||pinayvlog.org^
-||vipinay.cc^
-||vipinay.com^
-||vipinay.org^
-||wowpinay.cc^
-||wowpinay.com^
-
-! ============================================================
-! 17. KAINPEPE / KAINPOPOY / LIBOGGIRLS NETWORK
-! ============================================================
-||kainpepe.net^
-||kainpopoy.com^
-||liboggirls.net^
-
-! ============================================================
-! 18. PINAYONE / PINAYOK / PINAYOT MISC
-! ============================================================
-||pinayone.com^
-||pinayone.net^
-||pinayot.cc^
-||pinayot.com^
-||pinayot.tv^
-
-! ============================================================
-! 19. PINAYCARTEL / PINAYDEEPWEB / NSFWPH
-! ============================================================
-||pinaycartel.net^
-||pinaydeepweb.com^
-
-! ============================================================
-! 20. PWETAN / PWETFLIX / PWERTA NETWORK
-! ============================================================
-||pwerta.com^
-||pwetan.art^
-||pwetan.com^
-||pwetan.lol^
-||pwetan.me^
-||pwetan.one^
-||pwetan.ph^
-||pwetantv.com^
-||pwetantv.net^
-||pwetflix.com^
-
-! ============================================================
-! 21. JABOLTV / JANTOTFLIX / JABOL NETWORK
-! ============================================================
-||jabol.tv^
-||jaboltv.io^
-||jaboltv.net^
-||jaboltv.org^
-||pinoy-jakol.com^
-
-! ============================================================
-! 22. SINDIKATO / SNDKTO NETWORK
-! ============================================================
-||sindikato.tv^
-||sndkto.org^
-||sndkto.tv^
-
-! ============================================================
-! 23. XBREE / XBREEZY NETWORK
-! ============================================================
-||rbreezy.xyz^
-||xbree.tv^
-||xbree1.com^
-||xbreetv.com^
-
-! ============================================================
-! 24. TRIKEPATROL (PH-FOCUSED, FOREIGN-PRODUCED)
-! ============================================================
-||trikepatrol.com^
-
-! ============================================================
-! 25. MISC FILIPINO/PINAY TUBES & AGGREGATORS
-! ============================================================
-||18kit.com^
-||asianbold.com^
-||bangpinay.com^
-||batibot.tv^
-||betamax.ph^
-||boybuso.com^
-||filipinagogo.com^
-||filipinastripper.com^
-||filipinawebcams.com^
-||filipinoxstories.com^
-||hotmaals.com^
-||hunkypinoytv.com^
-||jakolman.com^
-||jorpetz.com^
-||kifpy.com^
-||kutitot.com^
-||libog-stories.com^
-||members.filipinastripper.com^
-||ninjakol.cc^
-||ninjakol.com^
-||ninjakol.me^
-||ninjakol.pro^
-||ninjakoltv.com^
-||pinay-flex.com^
-||pinay-telegram.com^
-||pinay.sex^
-||pinaybang.com^
-||pinaybang.net^
-||pinaybold.cc^
-||pinaybold.com^
-||pinaybold.tv^
-||pinaydede.com^
-||pinaydoggy.com^
-||pinaygo.com^
-||pinayhdporn.com^
-||pinayhunter.tv^
-||pinaylulu-tv.com^
-||pinaylulu.com^
-||pinaylulu.cz^
-||pinaylulu.tv^
-||pinayluluvid.xyz^
-||pinayluluvid1.xyz^
-||pinayluluvids.xyz^
-||pinaypops.com^
-||pinayreal.com^
-||pinaysex.watch^
-||pinaytelegram.com^
-||pinaytg.com^
-||pinayvids.com^
-||pinoyerotica.com^
-||pinoysexstories.xyz^
-||pornhubpinay.com^
-||pornxp.ph^
-||sexninja.co^
-||tik.cx^
-||tsupaan.com^
 ||youjaks.cc^
 ||youjaks.com^
+||youporn.com^
