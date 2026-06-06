@@ -3,17 +3,11 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
-||18kit.com^
-||aagmaal.nl^
-||allpornsites.net^
 ||alterpinay.vip^
-||analhdsex.com^
-||aporne.com^
 ||aquamarine-mosquito-617647.hostingersite.com^
 ||asian-pinay.com^
 ||asian-pinay.org^
 ||asianbold.com^
-||asianotube.com^
 ||asianpinay.asia^
 ||asianpinay.cc^
 ||asianpinay.com^
@@ -31,38 +25,26 @@
 ||asianpinays.com^
 ||asianviral.com^
 ||asianviral.net^
-||baddieshub247.com^
 ||bangpinay.com^
 ||batibot.bz^
 ||batibot.tv^
 ||batibotvid.xyz^
-||bbwhqporn.com^
-||bbwhqsex.com^
 ||bembang.tv^
 ||bembangstories.com^
 ||betamax.ph^
 ||bibamax.cc^
 ||bibamax.com^
 ||bibamax.ph^
-||bigvideo.net^
-||bokephdsex.com^
-||bokepindo.it.com^
-||bokepjepang.me^
 ||boybuso.com^
 ||boyjackpot.com^
-||euttube.com^
 ||fakboi.org^
 ||fakboi.tv^
-||faphouse.com^
 ||fareastpornhub.com^
 ||filipinagogo.com^
 ||filipinastripper.com^
 ||filipinawebcams.com^
-||fivestarpornsites.com^
-||freegrannyxxx.com^
 ||gc.asianpinay.cc^
 ||hdkantotin.com^
-||hotmaals.com^
 ||hunkypinoytv.com^
 ||iyoteen.cc^
 ||iyoteen.com^
@@ -125,7 +107,6 @@
 ||lootedpinay.org^
 ||manyakol.net^
 ||members.filipinastripper.com^
-||moviekhhd.biz^
 ||ninjakol.cc^
 ||ninjakol.com^
 ||ninjakol.me^
@@ -352,7 +333,6 @@
 ||pinayxvids.com^
 ||pinayyum.com^
 ||pinoy-jakol.com^
-||pornhub.com^
 ||pornxp.ph^
 ||pwerta.com^
 ||pwetan.art^
@@ -373,7 +353,6 @@
 ||rapbeh.xyz^
 ||rapsababe.tv^
 ||rbreezy.xyz^
-||redtube.com^
 ||rektabold.com^
 ||sabawvid.com^
 ||sarapbabe.cc^
@@ -417,7 +396,6 @@
 ||sulasokvids1.xyz^
 ||tbonx.ph^
 ||the-asianpinay.com^
-||thisvid.com^
 ||tik.cx^
 ||torjackan.info^
 ||trikepatrol.com^
@@ -431,7 +409,6 @@
 ||wowpinay.com^
 ||xbree.tv^
 ||xbreetv.com^
-||xhamster.com^
 ||xpinay.cc^
 ||xpinay.one^
 ||xpinay.tv^
@@ -439,9 +416,7 @@
 ||xpinayvids.net^
 ||xpinayvids.org^
 ||xtorjack.com^
-||xvideos.com^
 ||yespinay.cc^
 ||yespinay.com^
 ||yespinay.org^
 ||youjaks.cc^
-||youporn.com^
