@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
+||143porn.com^
 ||18kit.com^
 ||alterpinay.vip^
 ||aquamarine-mosquito-617647.hostingersite.com^
@@ -32,12 +33,15 @@
 ||batibotvid.xyz^
 ||bembang.tv^
 ||bembangstories.com^
+||bestjapanesepornsites.com^
 ||betamax.ph^
 ||bibamax.cc^
 ||bibamax.com^
 ||bibamax.ph^
 ||boybuso.com^
 ||boyjackpot.com^
+||chinese-xxx.com^
+||eporner.porn^
 ||euttube.com^
 ||fakboi.org^
 ||fakboi.tv^
@@ -45,6 +49,8 @@
 ||filipinagogo.com^
 ||filipinastripper.com^
 ||filipinawebcams.com^
+||gayhdxvideos.com^
+||gaymeister.com^
 ||gc.asianpinay.cc^
 ||hdkantotin.com^
 ||hunkypinoytv.com^
@@ -66,7 +72,6 @@
 ||kainpopoy.com^
 ||kaldagan.cam^
 ||kaldagan.co^
-||kaldagan.com^
 ||kaldagan.tv^
 ||kaltokan.cc^
 ||kaltokan.com^
@@ -83,7 +88,6 @@
 ||kantotin.ph^
 ||kantotin.tv^
 ||kantotintv.com^
-||kantotinyo.com^
 ||kantotph.com^
 ||kantotplus.com^
 ||kantotvids.com^
@@ -155,7 +159,6 @@
 ||pinaybold.cc^
 ||pinaybold.com^
 ||pinaybold.tv^
-||pinaycartel.net^
 ||pinaycum.com^
 ||pinaycum.tv^
 ||pinaycum.xyz^
@@ -176,7 +179,6 @@
 ||pinayflix.best^
 ||pinayflix.biz^
 ||pinayflix.blog^
-||pinayflix.buzz^
 ||pinayflix.bz^
 ||pinayflix.cc^
 ||pinayflix.ch^
