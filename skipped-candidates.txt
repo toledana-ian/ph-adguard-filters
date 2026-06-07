@@ -1,0 +1,4 @@
+# Candidate domains the PH blocklist crawler has already checked and should skip next time.
+# The script appends to this file when a candidate is skipped/deferred.
+# One domain per line; optional reason after " # ". Blank lines and lines starting with # are ignored.
+
