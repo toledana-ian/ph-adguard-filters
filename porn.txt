@@ -247,6 +247,7 @@
 ||pinayflix.rip^
 ||pinayflix.ro^
 ||pinayflix.sbs^
+||pinayflix.sex^
 ||pinayflix.sh^
 ||pinayflix.site^
 ||pinayflix.surf^
@@ -327,6 +328,7 @@
 ||pinayporn.site^
 ||pinayporndaddy.com^
 ||pinayporno.com^
+||pinaypornsite.com^
 ||pinaypuke.com^
 ||pinayrare.net^
 ||pinayreal.com^
@@ -363,6 +365,9 @@
 ||pinayxvids.com^
 ||pinoy-jakol.com^
 ||pwerta.com^
+||pwetan.com^
+||pwetan.me^
+||pwetan.uno^
 ||pwetantv.com^
 ||pwetantv.net^
 ||pwetflix.com^
