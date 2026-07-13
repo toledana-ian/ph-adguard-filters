@@ -195,7 +195,6 @@
 ||lovehub.com^
 ||low-taper.com^
 ||m.nuvid.club^
-||m.nuvid.com^
 ||mamacitaz.com^
 ||manilaescort.com^
 ||manyakol.net^
@@ -222,8 +221,6 @@
 ||noir4k.com^
 ||nudephotography.biz^
 ||nudestreams.eu^
-||nuvid.club^
-||nuvid.com^
 ||old4k.com^
 ||onlypinay.bz^
 ||onlypinay.co^
@@ -418,6 +415,7 @@
 ||pl.erozyx.com^
 ||plan-cul-direct.com^
 ||pt.erozyx.com^
+||puss8.com^
 ||pwerta.com^
 ||pwetan.lol^
 ||pwetan.uno^
@@ -453,7 +451,6 @@
 ||sfmcompilecom.com^
 ||shame4k.com^
 ||sheflix.com^
-||shooshtime.com^
 ||sindikato.tv^
 ||sk.erozyx.com^
 ||sndkto.org^
@@ -469,7 +466,6 @@
 ||sulasok.com.ph^
 ||sulasok.cx^
 ||sulasok.cz^
-||sulasok.fit^
 ||sulasok.fun^
 ||sulasok.mom^
 ||sulasok.sh^
@@ -551,5 +547,6 @@
 ||yespinay.com^
 ||yespinay.org^
 ||youjaks.cc^
+||youvideos.net^
 ||zexvids.com^
 ||zh.erozyx.com^
