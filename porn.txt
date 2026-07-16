@@ -297,6 +297,7 @@
 ||pinayflix.my^
 ||pinayflix.net^
 ||pinayflix.nl^
+||pinayflix.nz^
 ||pinayflix.one^
 ||pinayflix.pl^
 ||pinayflix.pm^
@@ -309,7 +310,6 @@
 ||pinayflix.sh^
 ||pinayflix.site^
 ||pinayflix.surf^
-||pinayflix.sx^
 ||pinayflix.tf^
 ||pinayflix.top^
 ||pinayflix.tv^
@@ -324,6 +324,7 @@
 ||pinayflix.xin^
 ||pinayflix.xxx^
 ||pinayflix.yt^
+||pinayflix0.com^
 ||pinayflix1.com^
 ||pinayflixcom.com^
 ||pinayflixhd.com^
@@ -419,12 +420,14 @@
 ||rapbeh.vip^
 ||rapbeh.xyz^
 ||rbreezy.xyz^
+||realvagina.com^
 ||redlights.be^
 ||redlights.nl^
 ||rektabold.com^
 ||rim4k.com^
 ||ro.erozyx.com^
 ||roidedgoon.com^
+||rosetoy.net^
 ||rosey.link^
 ||sabaw.net^
 ||sabawvid.com^
@@ -486,6 +489,7 @@
 ||thebestfetishsites.com^
 ||thecourtesansofmanila.com^
 ||theeroticreview.com^
+||tik.cx^
 ||tl.erozyx.com^
 ||tokyoxclips.com^
 ||tommys-bookmarks.com^
