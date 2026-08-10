@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
+||18kit.com^
 ||24porn.pro^
 ||allogirlsescort.com^
 ||alterpinay.vip^
@@ -186,6 +187,7 @@
 ||puss8.com^
 ||pwerta.com^
 ||pwetan.lol^
+||pwetan.me^
 ||pwetan.mom^
 ||pwetan.uno^
 ||pwetantv.com^
@@ -260,6 +262,7 @@
 ||xpinay.one^
 ||xpinay.tv^
 ||xpinayvids.lol^
+||xtorjack.com^
 ||youvideos.net^
 ||zexvids.com^
 ||zh.erozyx.com^
