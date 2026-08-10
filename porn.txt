@@ -148,6 +148,7 @@
 ||pinayfiles.tv^
 ||pinayflix.ing^
 ||pinayflix.mov^
+||pinayflix.plus^
 ||pinayflix.ws^
 ||pinayflix0.com^
 ||pinayflixhd.com^
