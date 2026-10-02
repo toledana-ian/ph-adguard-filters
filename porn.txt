@@ -161,6 +161,7 @@
 ||pinayflix.mov^
 ||pinayflix.plus^
 ||pinayflix.ws^
+||pinayflix.zip^
 ||pinayflix0.com^
 ||pinayflixhd.com^
 ||pinayflixplus.com^
@@ -192,6 +193,7 @@
 ||pinaytea.com^
 ||pinaytg.com^
 ||pinayum.cc^
+||pinayum.cv^
 ||pinayum.cx^
 ||pinayum.ph^
 ||pinayviralsexx.com^
