@@ -94,6 +94,7 @@
 ||jv.erozyx.com^
 ||kainpepe.net^
 ||kaldagan.com^
+||kaldagan.ph^
 ||kaldagan.tv^
 ||kantotflix.ph^
 ||kantotflix.tv^
@@ -212,7 +213,6 @@
 ||pwetan.lol^
 ||pwetan.mom^
 ||pwetan.uno^
-||pwetantv.com^
 ||pwetflix.com^
 ||quartier-rouge.be^
 ||rabbitsreviews.com^
