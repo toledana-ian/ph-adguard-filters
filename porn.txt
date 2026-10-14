@@ -172,6 +172,7 @@
 ||pinayflix0.com^
 ||pinayflixhd.com^
 ||pinayflixplus.com^
+||pinayflixplus.net^
 ||pinayflixplus.tv^
 ||pinayflixtvs.com^
 ||pinayflixvids.co^
@@ -250,6 +251,7 @@
 ||sulasok.vip^
 ||sulasoktv.com^
 ||sulasoktv.ph^
+||sulasokvid.co^
 ||sulasokvid.lol^
 ||superchat.dk^
 ||sv.erozyx.com^
@@ -290,6 +292,7 @@
 ||xpinay.tv^
 ||xpinayvids.lol^
 ||xtorjack.com^
+||xtorjack.me^
 ||youvideos.net^
 ||zexvids.com^
 ||zh.erozyx.com^
