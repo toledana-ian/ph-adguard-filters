@@ -248,7 +248,6 @@
 ||sulasok.run^
 ||sulasok.sh^
 ||sulasok.tv^
-||sulasok.vip^
 ||sulasoktv.com^
 ||sulasoktv.ph^
 ||sulasokvid.co^
