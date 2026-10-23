@@ -157,12 +157,12 @@
 ||pinaycum.tv^
 ||pinaycum.xyz^
 ||pinaycumvid.icu^
-||pinaycumvids.lol^
 ||pinaycute.tv^
 ||pinayeut.com^
 ||pinayfiles.net^
 ||pinayfiles.tv^
 ||pinayflix.bar^
+||pinayflix.click^
 ||pinayflix.ing^
 ||pinayflix.mov^
 ||pinayflix.plus^
