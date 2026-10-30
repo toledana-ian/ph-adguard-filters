@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/toledana-ian/ph-adguard-filters
 ! License: MIT
 
-||18kit.com^
 ||24porn.pro^
 ||allogirlsescort.com^
 ||alterpinay.org^
@@ -264,6 +263,7 @@
 ||sulasoktv.ph^
 ||sulasokvid.co^
 ||sulasokvid.lol^
+||supektibol.com^
 ||superchat.dk^
 ||sv.erozyx.com^
 ||sw.erozyx.com^
@@ -289,7 +289,6 @@
 ||vip-dubai-bunnies.com^
 ||voyeurcrush.com^
 ||watcherotic.com^
-||wetmummy.com^
 ||wiz69.com^
 ||world-escort-guide.com^
 ||worldescortindex.com^
