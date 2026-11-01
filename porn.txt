@@ -86,7 +86,6 @@
 ||it.erozyx.com^
 ||iyot.cc^
 ||iyot.cx^
-||iyottube.ph^
 ||ja.erozyx.com^
 ||jaboltv.net^
 ||jaboltv.org^
@@ -99,11 +98,8 @@
 ||kaldagan.ph^
 ||kaldagan.tv^
 ||kantotbold.com^
-||kantotflix.ph^
-||kantotflix.tv^
 ||kantotin.com.ph^
 ||kantotin.tv^
-||kantotplus.com^
 ||kantotvids.org^
 ||kantutan.cc^
 ||kantutan.vip^
@@ -209,7 +205,6 @@
 ||pinaysex.blog^
 ||pinaysex.cc^
 ||pinaysexstory.com^
-||pinaysource.tv^
 ||pinaytea.com^
 ||pinaytg.com^
 ||pinayum.cc^
@@ -231,7 +226,6 @@
 ||pwetflix.com^
 ||quartier-rouge.be^
 ||rabbitsreviews.com^
-||rapbeh.cc^
 ||rbreezy.xyz^
 ||redlights.be^
 ||redlights.nl^
