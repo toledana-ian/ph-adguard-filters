@@ -94,8 +94,6 @@
 ||javchat.com^
 ||jv.erozyx.com^
 ||kainpepe.net^
-||kaldagan.com^
-||kaldagan.ph^
 ||kaldagan.tv^
 ||kantotbold.com^
 ||kantotin.com.ph^
@@ -104,7 +102,6 @@
 ||kantutan.cc^
 ||kantutan.vip^
 ||katorsex.cc^
-||katorsex.me^
 ||katorsex.ph^
 ||kayatan.vip^
 ||kifpy.cc^
@@ -152,20 +149,17 @@
 ||pilipinay.co^
 ||pilipinay.me^
 ||pilipinay.vip^
-||pinay-flix.cc^
 ||pinay-porn.com^
 ||pinayclip.com^
 ||pinayclips.com^
 ||pinaycum.org^
 ||pinaycum.tv^
 ||pinaycum.xyz^
-||pinaycumvid.icu^
 ||pinaycumvids.icu^
 ||pinaycute.tv^
 ||pinayeut.com^
 ||pinayfiles.net^
 ||pinayfiles.tv^
-||pinayflix.bar^
 ||pinayflix.click^
 ||pinayflix.ing^
 ||pinayflix.mov^
@@ -189,6 +183,7 @@
 ||pinaylulu.cz^
 ||pinaylulu.tv^
 ||pinayluluvid.lol^
+||pinayone.cc^
 ||pinayone.mom^
 ||pinayone.net^
 ||pinayone.org^
