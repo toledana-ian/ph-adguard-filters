@@ -95,8 +95,6 @@
 ||javchat.com^
 ||jv.erozyx.com^
 ||kainpepe.net^
-||kaldagan.com^
-||kaldagan.ph^
 ||kaldagan.tv^
 ||kantotbold.com^
 ||kantotin.com.ph^
@@ -203,6 +201,7 @@
 ||pinayone.org^
 ||pinayone.xyz^
 ||pinayot.com^
+||pinaypie.app^
 ||pinaypie.biz^
 ||pinaypie.bz^
 ||pinaypie.pro^
@@ -256,6 +255,7 @@
 ||sr.erozyx.com^
 ||stepmomsxx.com^
 ||stuck4k.com^
+||sulasok.app^
 ||sulasok.co^
 ||sulasok.com.ph^
 ||sulasok.mom^
