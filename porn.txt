@@ -98,7 +98,6 @@
 ||jv.erozyx.com^
 ||kainpepe.net^
 ||kaldagan.tv^
-||kantotbold.com^
 ||kantotin.com.ph^
 ||kantotin.tv^
 ||kantotvids.org^
@@ -154,7 +153,9 @@
 ||onlypinayvid1.xyz^
 ||pa.erozyx.com^
 ||pahindot.app^
+||pahindot.cv^
 ||pahindot.vip^
+||paramour.cz^
 ||pasarbokep.co^
 ||pie4k.com^
 ||pilipinay.co^
@@ -181,6 +182,7 @@
 ||pinayflix.you^
 ||pinayflix.zip^
 ||pinayflix0.com^
+||pinayflix2.org^
 ||pinayflixhd.com^
 ||pinayflixph.com^
 ||pinayflixplus.com^
