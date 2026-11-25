@@ -155,7 +155,6 @@
 ||pahindot.app^
 ||pahindot.cv^
 ||pahindot.vip^
-||paramour.cz^
 ||pasarbokep.co^
 ||pie4k.com^
 ||pilipinay.co^
