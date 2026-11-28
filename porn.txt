@@ -98,6 +98,7 @@
 ||jv.erozyx.com^
 ||kainpepe.net^
 ||kaldagan.tv^
+||kantotbold.org^
 ||kantotin.com.ph^
 ||kantotin.tv^
 ||kantotvids.org^
@@ -160,7 +161,6 @@
 ||pilipinay.co^
 ||pilipinay.me^
 ||pilipinay.vip^
-||pinay-flix.net^
 ||pinay-porn.com^
 ||pinayclip.com^
 ||pinayclips.com^
@@ -183,7 +183,6 @@
 ||pinayflix0.com^
 ||pinayflix2.org^
 ||pinayflixhd.com^
-||pinayflixph.com^
 ||pinayflixplus.com^
 ||pinayflixplus.net^
 ||pinayflixplus.tv^
@@ -220,6 +219,7 @@
 ||pinaysexstory.com^
 ||pinaytea.com^
 ||pinaytg.com^
+||pinaytube.cc^
 ||pinayum.cc^
 ||pinayum.cv^
 ||pinayum.ph^
